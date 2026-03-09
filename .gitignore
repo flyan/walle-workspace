@@ -1,0 +1,21 @@
+# 敏感信息
+.env
+**/*.key
+**/*.pem
+**/secrets*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+temp/
+*.tmp
+*.log
+
+# 输出文件（可选，看你是否想保留）
+outputs/
+stock_reports/
+
+# OpenClaw 内部（不需要版本控制）
+.openclaw/
