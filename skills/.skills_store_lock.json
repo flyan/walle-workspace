@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "skills": {
+    "ontology": {
+      "name": "Ontology",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=ontology",
+      "source": "skillhub",
+      "version": "0.1.2"
+    },
+    "self-improving-agent": {
+      "name": "self-improving-agent",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=self-improving-agent",
+      "source": "skillhub",
+      "version": "1.0.11"
+    },
+    "tavily-search": {
+      "name": "Tavily Web Search",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=tavily-search",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "summarize": {
+      "name": "Summarize",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=summarize",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "agent-browser": {
+      "name": "Agent Browser",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=agent-browser",
+      "source": "skillhub",
+      "version": "0.2.0"
+    },
+    "polymarket": {
+      "name": "Polymarket",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=polymarket",
+      "source": "skillhub",
+      "version": "1.2.1"
+    },
+    "nano-banana-pro": {
+      "name": "Nano Banana Pro",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=nano-banana-pro",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "brave-search-api": {
+      "name": "Brave Search",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=brave-search-api",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "github": {
+      "name": "Github",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=github",
+      "source": "skillhub",
+      "version": "1.0.0"
+    }
+  }
+}

@@ -1,21 +1,23 @@
 # 敏感信息
+credentials/
+auth-profiles.json
+*.key
+*.pem
 .env
-**/*.key
-**/*.pem
-**/secrets*
+.env.local
+
+# 缓存和临时文件
+.DS_Store
+*.log
+*.tmp
+node_modules/
+.cache/
 
 # 系统文件
-.DS_Store
 Thumbs.db
+.vscode/settings.json
 
-# 临时文件
-temp/
-*.tmp
-*.log
-
-# 输出文件（可选，看你是否想保留）
-outputs/
-stock_reports/
-
-# OpenClaw 内部（不需要版本控制）
-.openclaw/
+# 大文件
+*.mp4
+*.mov
+*.zip
