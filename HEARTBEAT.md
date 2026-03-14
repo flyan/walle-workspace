@@ -1,5 +1,17 @@
 # HEARTBEAT.md
 
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
+## 定期检查任务
 
-# Add tasks below when you want the agent to check something periodically.
+### 待办事项提醒
+检查 memory/reminders.md 中的待办事项，如果存在未完成的高优先级任务，提醒用户。
+
+### 检查清单：
+1. 读取 memory/reminders.md
+2. 检查是否有状态为"待处理"的任务
+3. 如果有高优先级任务，提醒用户
+4. 更新最后检查时间
+
+## 配置说明
+- 此文件用于配置心跳检查时的任务
+- 每次心跳检查时会执行这里的任务
+- 保持简洁以减少 token 消耗
