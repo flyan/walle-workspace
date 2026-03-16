@@ -1,0 +1,96 @@
+{
+  "query": "新智元 大模型AI",
+  "total": 9,
+  "articles": [
+    {
+      "title": "专访新智元AI年度人物周志华:不负责任的夸大渲染是人工智能最大阻碍",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773504183&ver=1&signature=TuAMvlukldb23hcWJPdVOp8P8bAFnBRM-EHMq2o2BzRkzEaeJBL7x27XbYMdE7TjNHnFYpRgTu4BEjXVUzViUGfbqKI8t4oBXn*VFifyLRCNSdryTWxPZ8hBamKnTsvr0uULmJ3ZhUaPL5zl6UjarKFRS2DfTwaqdCzsUp7G-v0=",
+      "summary": "新智元2016中国AI年度人物参评专家名单新智元招聘职位  运营总监职位年薪:36- 50万(工资+奖金)工作地点:北京-海淀区所属部...",
+      "datetime": "2017-01-01 14:15:42",
+      "date_text": "2017年01月01日",
+      "date_description": "3359天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "Runway官宣下场通用世界模型!解决视频AI最大难题,竟靠AI模拟世界?",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504183&ver=6598&signature=IZ3dVX0x8qYkQoSrTv8Bbke3PgScqMu*J6uuBm4QZObnbUmi6Bl*jFn8Xc7OLUn2E6ItxCJqCSDcPBWfU*zDoT77EqlQIwzdUNIUiqd8SrzNxdJOehsYUEhjqWtC8lab&new=1",
+      "summary": "新智元报道 编辑:编辑部【新智元导读】Runway突然发布公告,宣称要开发通用世界模型,解决AI视频最大难题,未来要用AI模拟世...",
+      "datetime": "2023-12-12 15:31:31",
+      "date_text": "2023年12月12日",
+      "date_description": "823天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "「新智元大模型」上岗!0代码搞定,只需四步精调,写文超6",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23M0v70cD92jPsrKpmlz-muyKbkxARmc1qXa8Fplpd9zWL9d90BDHVA8EC8URRibcO3d-l1B6Kwd-LJ9qUFF15Z3gjW_Ct-P-MyUBhHRcj15URn3opa_Sck6-n4AlUL7_jRrwMpQdZugF-8CJnmFd4e4ZGccFClwiqne7voz5hFh6nMSa7no0AhI2lA0P3hZHaoqTlLH98Wr2C1HRGWX4J5LU3lqtPw9g..&type=2&query=%E6%96%B0%E6%99%BA%E5%85%83 %E5%A4%A7%E6%A8%A1%E5%9E%8BAI&token=90D1B44F0821697551561CAF4F8A036051E2999669B586B7",
+      "summary": "才几秒钟,新智元大模型的大作就诞生了.整体来说可圈可点,不过,文字间难免还是有那么点AI的感觉.解决完正文之后,那最让小...",
+      "datetime": "2023-09-08 17:37:33",
+      "date_text": "2023年09月08日",
+      "date_description": "918天前",
+      "source": "新智元",
+      "url_resolved": false
+    },
+    {
+      "title": "揭穿AI竞赛真实面目!各种冠军模型根本没用,Kaggle受益者挺身反驳",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504183&ver=6598&signature=IZ3dVX0x8qYkQoSrTv8Bbke3PgScqMu*J6uuBm4QZObziICyLwU8zndLgyfc4WwzmEWy2LHFt41taX*WnAt9v3T1-Ishi6xVB5kwjI1NyksH3zoa5GKc84oJ0sXfP-Xo&new=1",
+      "summary": "新智元报道 作者:lukeoakdenrayner编译:肖琴、鹏飞【新智元导读】今天,一个话题引起热议:AI竞赛根本不能产生有用的模型,无...",
+      "datetime": "2019-09-20 13:07:23",
+      "date_text": "2019年09月20日",
+      "date_description": "2367天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "全球首个!7nm世界最大芯片打造AI集群,解锁120万亿「大脑级」AI模型",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504183&ver=6598&signature=IZ3dVX0x8qYkQoSrTv8Bbke3PgScqMu*J6uuBm4QZObSJ3evO9TlIxKzxA9qHm3PyoFicH31pLO*3XiKd-fl-0733jErc7q6PIsX8tQTXW88*EfdRsYtbTyevXiNr*8i&new=1",
+      "summary": "yaxin su Catherine【新智元导读】突触是神经网络的「桥梁」.今日,Cerebras 宣布世界首个「大脑级」AI 集群,能够训练120万亿...",
+      "datetime": "2021-08-25 12:39:35",
+      "date_text": "2021年08月25日",
+      "date_description": "1662天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "剑桥AI模型力证口罩逆天作用:100%人口戴口罩,疫情根本不会扩散",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504183&ver=6598&signature=IZ3dVX0x8qYkQoSrTv8Bbke3PgScqMu*J6uuBm4QZObEio*z2nP-h**IcS2Byci2B8BDgT-BaZ0vAbwK8nyHJ9jS9fkThxXpykDswwxFqIJjjYfTieXKGOUFlRx7fyoI&new=1",
+      "summary": "新智元报道 来源:Arxiv编辑:啸林【新智元导读】多国人员联合... 模型表明,当至少有80%的人口参加时,戴上口罩会产生“重大影...",
+      "datetime": "2020-05-05 14:08:41",
+      "date_text": "2020年05月05日",
+      "date_description": "2139天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "Facebook万字长文:AI模型全部迁移至PyTorch框架",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23M0v70cD92jPsrKpmlz-muyKbkxARmc1qXa8Fplpd9zWL9d90BDHVA8EC8URRibcO3d-l1B6Kwd-LJ9qUFF15Z3gjW_Ct-P96u_DXRkf3xZN5aso-aPJbqo6TAS_YYiRGn91FEutNzH7ApRGwp9ifg6665WfNlnwcLBbaL7r8jwQzbSA2dmTUMlXsyzOrWpJ9x6OeK0MeOYVL8PpaFeIlFH6In5Ei3zg..&type=2&query=%E6%96%B0%E6%99%BA%E5%85%83 %E5%A4%A7%E6%A8%A1%E5%9E%8BAI&token=90D1B44F0821697551561CAF4F8A036051E2999669B586B7",
+      "summary": "新智元报道 来源:Facebook AI Blog编辑:LQ、yaxin【新智元导读】2017年,PyTorch诞生,成为当下最流行的深度学习框架.近日...",
+      "datetime": "2021-06-07 13:01:02",
+      "date_text": "2021年06月07日",
+      "date_description": "1741天前",
+      "source": "新智元",
+      "url_resolved": false
+    },
+    {
+      "title": "你的AI模型可能有后门!图灵奖得主发53页长文:小心恶意预测",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23M0v70cD92jPsrKpmlz-muyKbkxARmc1qXa8Fplpd9zWL9d90BDHVA8EC8URRibcO3d-l1B6Kwd-LJ9qUFF15Z3gjW_Ct-P8jz8yrzUVcZcFv55zBXYaXKdPMn6PWmnBg_f-4AH19waCwlm1jFJF9B1tnxXy4n0aQrMLARRajgWp6A-AsST7-u5QowgYJOz2x_IgrkxPfI8ez3MSfM8W200NVofL2iDw..&type=2&query=%E6%96%B0%E6%99%BA%E5%85%83 %E5%A4%A7%E6%A8%A1%E5%9E%8BAI&token=90D1B44F0821697551561CAF4F8A036051E2999669B586B7",
+      "summary": "新智元报道 编辑:LRS【新智元导读】模型预测错误别急着怪模型,当心这个bad case就是开发者留的后门!「对抗样本」是一个老生...",
+      "datetime": "2022-05-16 12:31:57",
+      "date_text": "2022年05月16日",
+      "date_description": "1398天前",
+      "source": "新智元",
+      "url_resolved": false
+    },
+    {
+      "title": "小扎下血本!Meta专为元宇宙搞了个AI模型",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504183&ver=6598&signature=IZ3dVX0x8qYkQoSrTv8Bbke3PgScqMu*J6uuBm4QZOZDhWkpyMG2wJrj3LphRC-ZMeo-WRE*pQI8xSfTkgWs-fKfBYPdTR89QXvA1NsA4wFrsKBQcG6qsegwifa*q4RL&new=1",
+      "summary": "新智元报道 编辑:David Joey【新智元导读】专门为元宇宙打造的AI框架,是什么样子的?人工智能将成为虚拟世界的支柱.人工智能...",
+      "datetime": "2022-07-28 12:59:44",
+      "date_text": "2022年07月28日",
+      "date_description": "1325天前",
+      "source": "新智元",
+      "url_resolved": true
+    }
+  ]
+}

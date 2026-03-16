@@ -1,0 +1,196 @@
+{
+  "query": "机器之心 AI大模型",
+  "total": 19,
+  "articles": [
+    {
+      "title": "长文本杀不死RAG:SQL+向量驱动大模型和大数据新范式,MyScale AI数据库正式开源",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504152&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30etBhESd4QruyWar1*dOxu90upPbDIWyQmnoom*v0Hf*lMbDK68UWzKEg83CZhOyDW2q5qvrweXWgvj*vzPjHFr&new=1",
+      "summary": "机器之心发布机器之心编辑部大模型和 AI 数据库双剑合璧,成为大模型降本增效,大数据真正智能的制胜法宝.大模型(LLM)的浪...",
+      "datetime": "2024-04-11 12:35:50",
+      "date_text": "2024年04月11日",
+      "date_description": "702天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "大模型帮陶哲轩解题、证明数学定理:数学真要成为首个借助AI实现突破的学科了?",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504152&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30cyQQNrxhma5hGvAMi*dMDYQ1lIOU7Duv3H5OebG3O***PFKKsRreMl02CTEOomIgqzdlnfAqx4Luusq*H8aqOx&new=1",
+      "summary": "机器之心报道编辑:张倩、蛋酱数学将成为第一门借助AI实现重大突破的学科?去年 2 月份,DeepMind 发布了编程辅助利器 ...",
+      "datetime": "2023-06-30 13:30:23",
+      "date_text": "2023年06月30日",
+      "date_description": "988天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "大模型持续技术升级,机器之心邀你来这场干货满满的技术论坛",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504152&ver=6598&signature=-zHN3CzmjMW-YmoKwhFqko0hVt6ZlA41gn0*77RfloAeVQ9LRGff6YKsoa8zG3ea9PxvZXUdFHe06ZFlX8KYeRjCz7I-AAJJQp7vCcabPS0IdXq-4XsiThuFLWg1Li2-&new=1",
+      "summary": "机器之心独家策划了「Llama 2 大模型算法与应用实践」论坛,拆解以 Llama 2 为代表的大模型算法和应用,参会者不仅能系统学到大...",
+      "datetime": "2023-08-08 17:02:33",
+      "date_text": "2023年08月08日",
+      "date_description": "949天前",
+      "source": "机器人大讲堂",
+      "url_resolved": true
+    },
+    {
+      "title": "2019机器之心人工智能年度奖项盘点:六大奖项覆盖全球百余家杰出AI公司",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504152&ver=6598&signature=5JuhYY884CeUTtUKjNuDFaes7PNxQI74*I47oMbRgPYbfco0PrjAG8GhRXeNtKcK0LYgrHxgKtn77n91Ja1okqOYlqeNjmRMomAZW7KFP6HXvy754NvhFoKElI-YzuSd&new=1",
+      "summary": "机器之心根据六大奖项评选维度,对每家参选企业提交的 200 余项... AI 企业、30 个获奖 AI 应用案例、30 个获奖 AI 产品/解决方案,以...",
+      "datetime": "2020-01-21 12:55:59",
+      "date_text": "2020年01月21日",
+      "date_description": "2244天前",
+      "source": "机器之能",
+      "url_resolved": true
+    },
+    {
+      "title": "机器之心「SOTA!模型」新版来了!高效查找最新、最热、最先进的AI模型及开发资源!",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504152&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30dy135WiIPNf1WcjLBMwrPQ0tzx2H8sPvVA9rf1uxnUs4pjbQGkhjHtdqBtsaINbrnWaA9kXb6dXGZA1vuyjKv6&new=1",
+      "summary": "在首版「SOTA 模型」项目上线之后的这三年内,机器之心一直在思考我们还能做些什么来帮助AI开发者更快、更高效地用上学界、企...",
+      "datetime": "2022-08-02 13:05:07",
+      "date_text": "2022年08月02日",
+      "date_description": "1320天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "删数据,还要删AI模型:美国科技公司遭遇最严厉隐私泄露处罚",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504152&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30fGbJx5HxlH8ZlujNjwIwX6ByuBsGLxYT6AZhhDWaY7NkIviy7YXuk*YQBLD-wfsXQPwnXFUq5E7m-JUHEnlrXZ&new=1",
+      "summary": "机器之心报道编辑:张倩、泽南「想象一下 Facebook 或 Google ... AI 算法模型的案例我们还没怎么听说过.「存储空间无限的云相册...",
+      "datetime": "2021-01-23 12:17:48",
+      "date_text": "2021年01月23日",
+      "date_description": "1876天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "硬件预算最高直降46倍!低成本上手AIGC和千亿大模型,一行代码自动并行,Colossal-AI再升级",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504152&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30fcO6dQNnoyadnJxk2FNc3wvRly7HFWNAgNzSLIaFWWdJQLc3XCaNQqsaCBeqk4VulnV3tD9X9el4BZtPg7I05x&new=1",
+      "summary": "机器之心发布机器之心编辑部最近,AI 大模型连续火爆出圈,人工智能生成模型(AIGC)的热度尚未褪去,聊天机器人 ChatGPT 便引...",
+      "datetime": "2023-01-04 13:00:06",
+      "date_text": "2023年01月04日",
+      "date_description": "1165天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "快手APP上了大模型对话,这是机器之心一手体验",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23M0v70cD92yd1A8lIMaYyuyKbkxARmc1qXa8Fplpd9Rf9znkurAe5kYodHf4JAtKsxHlbGefklNzrvr5gSqgbiL6LXGXnm0_wbsLfGW2cHPtSdV1aYsHjwe5rfSzLaZxUPrYmLsCnUigVFv5SybMpWC_LozEUPRJzLg95jVp-_Z7TtXuqYSFYTrY4NSD4uuBIFZHWKWXQ8GiFgV65DSKDm0CtGSSkZQQ..&type=2&query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83 AI%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=90D10D85AE86CED3F7FEBB09EAF7622FF82E045669B58698",
+      "summary": "机器之心报道编辑:泽南短视频平台的大模型之战已经打响?快手的 AI 大模型落地应用,就这样悄然开始了.8 月 18 日晚,快手公布...",
+      "datetime": "2023-08-21 14:03:12",
+      "date_text": "2023年08月21日",
+      "date_description": "936天前",
+      "source": "机器之心",
+      "url_resolved": false
+    },
+    {
+      "title": "机器之心ChatGPT及大模型技术大会全日程公布,本周二速来围观",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23M0v70cD92yd1A8lIMaYyuyKbkxARmc1qXa8Fplpd9Rf9znkurAe5kYodHf4JAtKsxHlbGefklNzrvr5gSqgbiL6LXGXnm09pH3VlNwhb0dEyCg9EvT3yCWDm4pSjoBwPdEmdgfX9kAMNzMQAv7vA1kURLBSI2qf2RgkZURSpYhPRVITi4MKGzNj3pWrSAsDJb2DGtgf5b3-slDl12emk6Ebq8fk9diw..&type=2&query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83 AI%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=90D10D85AE86CED3F7FEBB09EAF7622FF82E045669B58698",
+      "summary": "机器之心将在北京燕莎中心凯宾斯基饭店举办「ChatGPT 及大模型技术大会」,为圈内人士提供一个专业、严肃的交流平台,围绕研...",
+      "datetime": "2023-03-20 13:01:01",
+      "date_text": "2023年03月20日",
+      "date_description": "1090天前",
+      "source": "机器之心",
+      "url_resolved": false
+    },
+    {
+      "title": "一口气看完《哈利波特》:AI大模型「量子速读」,一分钟抵人类五小时",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504154&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30fweY-iaW82xSUkoe34AlRPihBhsQ3MU062rHUh8sVrIaMppF1XvU7acAmKqgUqsB6AhzF8ewp4pUjMxD13j2Lw&new=1",
+      "summary": "机器之心报道机器之心编辑部OpenAI 的 GPT-4 可以处理的上下文 ... AI 系统和语言模型,并秉持负责任的 AI 使用理念.不知大家是否...",
+      "datetime": "2023-05-12 12:43:17",
+      "date_text": "2023年05月12日",
+      "date_description": "1037天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "大神李沐加入AI大模型创业,导师Alex Smola是创始人",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504154&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30dt4h0U5dO4j51sj*5gakI5rmr3wEZ-cV1nIgA8J-kAZYwJOlJtB77t92vbjdqdIXhcT6ybS3cnN4UcZ6RmbRfC&new=1",
+      "summary": "机器之心报道机器之心编辑部要做 ChatGPT 一样的事.在 ChatGPT、大模型备受关注的今天,华人 AI 学者李沐创业的消息吸引了大...",
+      "datetime": "2023-03-07 17:38:21",
+      "date_text": "2023年03月07日",
+      "date_description": "1103天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "彻底开源,免费商用,上海AI实验室把大模型门槛打下来",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504154&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30f0vQhrLLlLY*Q1ggdgwGBbpYsT6bZDNfNkzRqDOp0rPesaUChbmnno--JOBVb3kNZJsRHv0uWmFPgs28-TI74F&new=1",
+      "summary": "机器之心原创作者:杜伟、泽南终于,业内迎来了首个全链条大模型开源体系.大模型领域,有人探索前沿技术,有人在加速落地,...",
+      "datetime": "2023-07-12 18:36:10",
+      "date_text": "2023年07月12日",
+      "date_description": "976天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "击败Llama 2,抗衡GPT-3.5,Stability AI新模型登顶开源大模型排行榜",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504154&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30flTsda22hV1usXrhY0w8u4Zdcx2xuiOLkAeFIx55n-t1M5mxp3FVPBylKxvr3NED1iz87XsaPR9QQtWUoVrHmS&new=1",
+      "summary": "机器之心报道编辑:张倩一眨眼,开源大模型又进步了.谷歌、OpenAI真的没有护城河?「我就午休了 30 分钟,我们的领域又变了?...",
+      "datetime": "2023-07-22 12:37:20",
+      "date_text": "2023年07月22日",
+      "date_description": "966天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "国内唯一全面对标OpenAI的创业公司,大模型已经出到第三代",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504154&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30eMXSQtpI2lZYUcCYB8*UBWZP2Wqr5HRG-T2f9g7IWrF2yNwmd5S7jIDK*dT0e8dFAjIKo-uL*lgyPK2A0NaujY&new=1",
+      "summary": "机器之心报道作者:泽南、杜伟中国大模型公司,正在进入竞争的新阶段.仅用六个月时间,国内 AI 创业公司就已经把大语言模型发...",
+      "datetime": "2023-10-28 12:26:38",
+      "date_text": "2023年10月28日",
+      "date_description": "868天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "AI大模型接管谷歌搜索:一夜之间,整个领域变天了",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504154&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30foiN6m*OmxRDrpito-WYDF8HIJDd-2uBwdqm9zy5kl-nB8WfY7LIRqYRzrFbQu89UC-8ieJg1QWTRlFENrwRWW&new=1",
+      "summary": "机器之心报道编辑:陈萍AI 正在让搜索体验变得更加便捷.昨天是百度,再往前有微软必应,由 ChatGPT 等大语言模型引发的 AI 变革...",
+      "datetime": "2023-05-26 17:04:52",
+      "date_text": "2023年05月26日",
+      "date_description": "1023天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "大模型加持的「全科AI家教」正式上岗,一场解放家长的教育革命在路上了",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504154&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30cH6aEeBaLWD8EVd2rTUf40kX5zSHfX2yhmoENYnoPSdZjFX8OJRgokx9WW1XKU6iDTZ9bXz3HIZGgAttJ8f-ko&new=1",
+      "summary": "机器之心原创作者:蛋酱让大模型给孩子当全科家教,靠谱吗?辅导孩子功课,是每一位家长注定要经历的「修行」.「为什么一道题...",
+      "datetime": "2024-01-04 12:22:21",
+      "date_text": "2024年01月04日",
+      "date_description": "800天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "AI大模型团队Colossal-AI破局创新,火热招募中!",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504154&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30cmjBHpo8SKZwjzFRv49-dQE6EPgaz*C1lVqesG81S*WmTA*eJxFb6YAyhGUnI4KEIL7EZ4oC-AakQFg84X6t-*&new=1",
+      "summary": "AI 大模型算法工程师岗位职责:熟悉 AI 算法原理或 AI 应用系统;从事 NLP / 多模态相关机器学习 / 深度学习等技术的研究与应用,包...",
+      "datetime": "2023-06-08 10:57:05",
+      "date_text": "2023年06月08日",
+      "date_description": "1010天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "AI的未来不是大模型,也不是端到端:Meta向我们证明了这一点",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504154&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30dkLybfAJTmr0tx6hangkOos3QQPs8m1dPD3SKIrJBCT-xtSAHaBfBaFFO2coLvRCNnshall4HQdHR1T7mECDBM&new=1",
+      "summary": "选自garymarcus.substack机器之心编译机器之心编辑部「人类的可... AI 领域的热门新闻,通过和人玩在线版「外交」游戏,它锻炼了自...",
+      "datetime": "2022-11-26 12:31:01",
+      "date_text": "2022年11月26日",
+      "date_description": "1204天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "AI模型看看视频,就学会了玩《我的世界》:砍树、造箱子、制作石镐样样不差",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773504154&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30e1GeTkb9wT8fWqZZcJG2ZjV1EkzgItW65GdtiG-WYrNPlGceJJLqFTkzX5NjUR-S6HPYtvdF4jXj5US1dB0Ig0&new=1",
+      "summary": "机器之心报道编辑:陈萍、小舟《我的世界》里,玩家不一定都是人类,现在 AI 也会玩了.《我的世界》是全球知名度最高的开放世...",
+      "datetime": "2022-06-24 18:08:36",
+      "date_text": "2022年06月24日",
+      "date_description": "1359天前",
+      "source": "机器之心",
+      "url_resolved": true
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "total_articles": 5,
+  "analyzed_articles": 5,
+  "analysis_time": "2026-03-14T23:31:40.314100",
+  "articles": [
+    {
+      "title": "新金融“过冬” | 馨金融",
+      "account_name": "馨金融",
+      "publish_time": "2018-10-29 18:30:16",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502280&ver=6598&signature=-jMGd0z*w1cg-cTUQSObzlqZGLqOkRD1CPLXFN9LpCDWw-vJgXVBNQWuvRIsGSAaiN9pzGUNocws0RDaFtOcggOWVKe1LNsTXWiOPp-rEZWgiWRs0ZS2hJaAHDD4z*wV&new=1",
+      "summary": "——馨金融洪偌馨/文低迷了数月的新金融市场又有了一丝新气象. 上周,先是金融科技解决方案提供商品钛(PINTEC)品钛正式登陆......",
+      "scores": {
+        "content_quality": 3,
+        "source_credibility": 7,
+        "overall": 5
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 66
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 10,
+            "markers": [
+              "专业术语"
+            ]
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 2693
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "理财平台的价值回归 | 馨金融",
+      "account_name": "馨金融",
+      "publish_time": "2017-08-01 20:13:29",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502280&ver=6598&signature=-jMGd0z*w1cg-cTUQSObzlqZGLqOkRD1CPLXFN9LpCDHP6FkA*pfUumPZj*jFKXYzZuQIMkH7ezH0XJKk7Yi3n1B*0gVipXu3LdQ-Gy8FmMQgs0Lii2ZbykYwt0B1vSU&new=1",
+      "summary": "在互联网金融行业,资金和资产就像置于跷跷板的两端,似乎永远无法找到最佳的平衡状态.—— 馨金融洪偌馨/文翻看7月份的P2P网......",
+      "scores": {
+        "content_quality": 1,
+        "source_credibility": 7,
+        "overall": 4
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 65
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 3147
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "“消失”的银行 | 馨金融",
+      "account_name": "馨金融",
+      "publish_time": "2018-11-20 17:01:24",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502280&ver=6598&signature=-jMGd0z*w1cg-cTUQSObzlqZGLqOkRD1CPLXFN9LpCBo9qUH7lsqaBpGwLl7mC2Oy*DH*DMzLTN-TJyw0OthADf9CefHFknp2CPkEqWjiqsYKbj0zg1m06TbsfdpijFy&new=1",
+      "summary": "金融本身是一种可以高度数字化的产业,但金融的数字化、智能化带来的不仅是自身的升级,还是其他产业升级的一个切入口. “伴随......",
+      "scores": {
+        "content_quality": 1,
+        "source_credibility": 7,
+        "overall": 4
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 63
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 2671
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "新金融行业衰亡了吗?| 馨金融",
+      "account_name": "馨金融",
+      "publish_time": "2017-03-29 22:05:28",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773502280&ver=1&signature=pKzc-oa3Vz5LtyE782TgiXlENfJ4nKFUiRcpDH5cI*uYbKeFm4fjgZRmNe097agPMyodF8UpMDyW1*YpqNqxKeLUyKaH0KjI3yvp9QOrjVUCMFXIIKq2BunMTmLDcE2ceCP8yTceY9P8xne3f6GdylhxEE7aTMmk4Y*PIsu0zN0=",
+      "summary": "——馨金融洪偌馨/文很长一段时间以来,每每有圈外的朋友跟我聊起互联网金融,大家都会用一种担忧的神情看着我说:这个行业是不......",
+      "scores": {
+        "content_quality": 1,
+        "source_credibility": 7,
+        "overall": 4
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 63
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 3272
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "“蚂蚁”折叠  | 馨金融",
+      "account_name": "馨金融",
+      "publish_time": "2018-05-29 20:09:27",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502280&ver=6598&signature=-jMGd0z*w1cg-cTUQSObzlqZGLqOkRD1CPLXFN9LpCC9*yWcSvMUBcbargFcjQxB1k9w6dDXp3gzVFKAtL08ewWbAhh0uCyaRkOvGL1wpL3tT3LBB2pfkkTAQvvBikDg&new=1",
+      "summary": "——馨金融洪偌馨/文是金融公司还是科技公司? 从支付宝到蚂蚁金服,从支付工具到金融科技巨擘,从Fintech到Techfin,关于这个身......",
+      "scores": {
+        "content_quality": 1,
+        "source_credibility": 7,
+        "overall": 4
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 71
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 2846
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    }
+  ],
+  "summary": {
+    "average_content_score": 1,
+    "average_credibility_score": 7,
+    "average_overall_score": 4,
+    "top_3_articles": [
+      {
+        "title": "新金融“过冬” | 馨金融",
+        "account": "馨金融",
+        "score": 5
+      },
+      {
+        "title": "理财平台的价值回归 | 馨金融",
+        "account": "馨金融",
+        "score": 4
+      },
+      {
+        "title": "“消失”的银行 | 馨金融",
+        "account": "馨金融",
+        "score": 4
+      }
+    ]
+  }
+}

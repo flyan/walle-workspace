@@ -2,7 +2,8 @@
 
 - **Name:** Leon
 - **What to call them:** Leon
-- **Timezone:** GMT+8
+- **Timezone:** GMT+8 (Beijing Time)
+- **Location:** Beijing
 - **Notes:** 使用中文交流，是我的主要用户
 
 ## Context

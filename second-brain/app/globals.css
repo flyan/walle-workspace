@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+* {
+  @apply transition-colors duration-200;
+}
+
+body {
+  @apply bg-slate-950 text-slate-100;
+}
+
+/* 搜索框样式 */
+.search-input {
+  @apply w-full px-4 py-2 bg-slate-900 border border-slate-700 rounded-lg text-slate-100 placeholder-slate-500 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500;
+}
+
+/* 卡片样式 */
+.memory-card {
+  @apply p-4 bg-slate-900 border border-slate-800 rounded-lg hover:border-slate-700 hover:bg-slate-800 cursor-pointer;
+}
+
+/* 标签样式 */
+.tag {
+  @apply inline-block px-2 py-1 text-xs bg-slate-800 text-slate-300 rounded;
+}

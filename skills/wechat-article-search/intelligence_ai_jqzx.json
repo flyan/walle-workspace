@@ -1,0 +1,56 @@
+{
+  "query": "机器之心",
+  "total": 5,
+  "articles": [
+    {
+      "title": "机器之心GMIS 2017寻找VIP——四大专家签名赠书",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773502264&ver=1&signature=gNkHjxyIfDfLuuR8Vmxxt4Q-Lqz0a2MHtWDTW807L*MwXgseLD4tQtrWtwV08Ksg6d9jA2306bC6IGFcplNyHFLmtVQ-0fBk5m1Gpit1ZjPsuYRVtRxwuwSDSuRuJIeNVaxoi8wc6dYlg8n-ZxZgnGIGaufrOi3sKoLwJwblgjw=",
+      "summary": "机器之心将于 5 月 27-28 日在北京举办「2017 全球机器智能峰会(GMIS 2017)」,大会拥有 46 位嘉宾,包含 32 场演讲、4 场圆桌...",
+      "datetime": "2017-05-11 14:20:51",
+      "date_text": "2017年05月11日",
+      "date_description": "3229天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "机器之心走进卡耐基梅隆,专访 CMU Summit 团队",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773502264&ver=1&signature=gNkHjxyIfDfLuuR8Vmxxt4Q-Lqz0a2MHtWDTW807L*M6T-W3*K9oVbriPsrDLIy2EFivtKaYv9JIuD8Jb48nBRJ51u1BbPk66EM4-lO8BdTx1e53QwbhnYoHXOu7W06aHS2xUZBBmOcQ3ox3HYjLHVU6V1DG91HQNQzWIIPi-fA=",
+      "summary": "机器之心原创采访联络:PSI 硅谷特约观察员 郑铟采访:之乎,文慧,Rita 编辑:Rita引言:Synced Talk Plus 是机器之心全新推出的...",
+      "datetime": "2016-06-18 21:05:30",
+      "date_text": "2016年06月18日",
+      "date_description": "3556天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "机器之心年度盘点:2017年人工智能领域度备受关注的科研成果",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502264&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30e53KR02JIhIPzmIhlVvg3Zs4ugQ4WHoKUrexV4EbOYdIh5*X69aUaDUmuHmL1RpxxJoGvwIGPJ9JtIjAIBRNpM&new=1",
+      "summary": "机器之心原创参与:李泽南、李亚洲、黄小天2016 年,人工智能行业经历了语音识别准确率飙升、神经机器翻译重大突破、图像风格...",
+      "datetime": "2017-12-30 11:39:48",
+      "date_text": "2017年12月30日",
+      "date_description": "2996天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "机器之心「AI00」颁奖晚宴闭幕,五月最新榜单发布",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502264&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30cZyHxgGxvZEaejZ9tNsktyvu8AcLWaJ3tSq4yS-IArHhShNent50RQhzOWDC3iBK6Ac5UptlCmqqavf8-wemG3&new=1",
+      "summary": "机器之心 GMIS 2017 全球机器智能峰会第二日晚,机器之心「AI00」首次举行了颁奖典礼.来自国内外的近 20 家上榜企业代表接受邀...",
+      "datetime": "2017-06-06 06:08:24",
+      "date_text": "2017年06月06日",
+      "date_description": "3203天前",
+      "source": "机器之心",
+      "url_resolved": true
+    },
+    {
+      "title": "机器之心「AI00」七月榜单:「AI不止语音助手」的华为",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502264&ver=6598&signature=**D77Qs1f3byIORh5sbCkv--DOltmUK-LSMdlqys30cwogqr9KY0pl-C**ufUoh70ymDvToyFPxri2ln3PDO75QIEwTFTOj*ApjROFm-2Niruzso4TCFPCoPmAxPOPP7&new=1",
+      "summary": "机器之心极早关注的语音与自然语言处理领域的创业公司 Kitt.ai 也宣布被百度收购 (因收购,已从此榜单去掉).在最新一期的 7 月...",
+      "datetime": "2017-08-09 00:03:06",
+      "date_text": "2017年08月09日",
+      "date_description": "3139天前",
+      "source": "机器之心",
+      "url_resolved": true
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "total_articles": 10,
+  "analyzed_articles": 10,
+  "analysis_time": "2026-03-14T19:26:45.331633",
+  "articles": [
+    {
+      "title": "【提前招生】金融科技应用专业——“人工智能+”时代,科技金融,智赢未来!",
+      "account_name": "嘉兴南洋职业技术学院",
+      "publish_time": "2026-03-14 08:03:12",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773487587&ver=6598&signature=tb8eAnVLZS9NUvhggoynuLluAXPbDrD2KaXOJsS2Jbcgr-pcgYmoQOp*TMfLQaG-ZMDQAcXlPlRbf-XE3wvF*bSPsUfZxMZk1QDWUAETiBxzrPfnPaj03tnZm4vz-PHj&new=1",
+      "summary": "金融科技营销与运营实训、区块链金融应用实训、大数据金融分析实训、模拟投资综合实训、理财规划实训等.师生参观2025年世界互......",
+      "scores": {
+        "content_quality": 6,
+        "source_credibility": 10,
+        "overall": 8
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 64
+          },
+          "data_references": {
+            "score": 10,
+            "level": "部分数据",
+            "count": 1
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 10,
+            "markers": [
+              "专业术语"
+            ]
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 20,
+            "frequency": "日更",
+            "days_old": 0
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "《金融科技和Web3的法律政策与监管》选修课第二讲:赵炳昊院长与于佳宁博士共话DeFi监管挑战与数字资产演进趋势",
+      "account_name": "炳烛夜谈Web3",
+      "publish_time": "2026-03-14 17:00:47",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773487587&ver=6598&signature=Ald*NgrdiEXgIY8jFmof9aoeeL2AEhIx*Fpk4L5-fqCR-E2DpKIbE4jAm49U3besV9F*uOzjdZPyPqsEdTdAU8soJFD3-I3ws-FbIxtYrdWBUfCk3rQI68HmBxH29zk1&new=1",
+      "summary": "2026年3月9日,中国政法大学《金融科技和Web3的法律政策与监管》选修课迎来第二讲.国际知名商法、金融科技和数字法学专家、......",
+      "scores": {
+        "content_quality": 4,
+        "source_credibility": 10,
+        "overall": 7
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 66
+          },
+          "data_references": {
+            "score": 10,
+            "level": "部分数据",
+            "count": 1
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 20,
+            "frequency": "日更",
+            "days_old": 0
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "专升本专业介绍 | 金融科技(经管类)",
+      "account_name": "宁波财经学院招生办",
+      "publish_time": "2026-03-14 12:46:16",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773487587&ver=6598&signature=4SbyfCSNK*k1d4aNTYLuPoZeZHQr6YW5qf2L71z-hpB6jXCPubB4XEoEltzKjKHIjYyqn9Cf9qQ2UNkFUqRFIMmuPvo41tsZWO7mOcXHs0aX7T3cM5w2xdO10vBfb55i&new=1",
+      "summary": "也可在科技公司从事金融科技系统开发、大数据分析等工作.随着金融行业数字化转型加速,市场对兼具金融与科技能力的复合型人才......",
+      "scores": {
+        "content_quality": 3,
+        "source_credibility": 10,
+        "overall": 6
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 62
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 10,
+            "markers": [
+              "专业术语"
+            ]
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 20,
+            "frequency": "日更",
+            "days_old": 0
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "Offer | G5录不停!UCL金融科技硕士!祝贺【川大】学员!",
+      "account_name": "中美加国际留学",
+      "publish_time": "2026-03-14 12:14:31",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773487587&ver=6598&signature=omSyq9GykFTBLg4TTrghDaSK1O*y3sdZ7p-jHcaUgjIeejptCa-s88P7M243lzw2K-OyOH6lyQBUhIMz888lbY*OmnAoowWj8ENE5*4B-NPYVfRCKey8l5Vu35uQnoqC&new=1",
+      "summary": "金融科技硕士offer录取项目介绍✦院校介绍伦敦大学学院是一所享誉世界的英国顶尖综合研究型大学,在多个世界大学排行榜上位居全......",
+      "scores": {
+        "content_quality": 3,
+        "source_credibility": 10,
+        "overall": 6
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 65
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 10,
+            "markers": [
+              "专业术语"
+            ]
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 20,
+            "frequency": "日更",
+            "days_old": 0
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "朝花夕拾 |《金融科技研究索引》第79期",
+      "account_name": "金融科技研究",
+      "publish_time": "2026-03-14 08:01:58",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773487587&ver=6598&signature=2txXGRF6csT11wN-7bn-NRK*Ftcdn*OoV5stCprIjAzrE7c3tyNuzeMl9MIlfc9VSFoBRecUTBnfv9q0m-4X0h6vNDMQlEjbkih9v9ZMb4svxjGJppaQt4*kJaD-mVRs&new=1",
+      "summary": "银行金融科技与绿色信贷供给——基于银行专利的文本分析作者:宋清华 曾云鹤 熊保维摘要推动绿色低碳高质量发展,科技创新是关......",
+      "scores": {
+        "content_quality": 3,
+        "source_credibility": 10,
+        "overall": 6
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 63
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 10,
+            "markers": [
+              "专业术语"
+            ]
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 20,
+            "frequency": "日更",
+            "days_old": 0
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "中国移动金融科技集团2026春季校园招聘",
+      "account_name": "应届生校园招聘网",
+      "publish_time": "2026-03-14 15:07:55",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773487587&ver=6598&signature=SJWLSMd9yHejqYW2YpwzVtuMeRwEpR70kP8dv2Tk*Pzun9D1m17sUqkNYmcXoZtQVTXHdLsHJha*uut7y4WJcbAOa2vJ*zjYbiSqreh9IfwlnfOpSFswXzlA7rbuS*Ym&new=1",
+      "summary": "▍全国应届生校园招聘群❶ 实时发布名企校招❷ 求职招聘指导答疑❸ 海量求职学习资料❹ 各大名企校招内推扫码领取历年真题!添加......",
+      "scores": {
+        "content_quality": 1,
+        "source_credibility": 10,
+        "overall": 5
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 65
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 20,
+            "frequency": "日更",
+            "days_old": 0
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "金融科技的“幕后英雄”是谁?西点精工用高速连接器给出答案",
+      "account_name": "西点精工技术",
+      "publish_time": "2026-03-14 14:03:55",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773487587&ver=6598&signature=yKsYlPcegOFovWh49kILICbPxmApUojG5vFxIKp46uQZrwiFVjziovoyhXA92gyNEp*x8DS50lodgXsxwNW5nTZuW2Um2Byr*FeKNHJMfWgyny-NXYSk6nsTODIwvvX0&new=1",
+      "summary": "2022金融科技的幕后英雄谁是看不见的高速连接器?西点精工用高速连接器给出答案序幕:悬念揭晓近年,2022深圳国际金融科技大......",
+      "scores": {
+        "content_quality": 1,
+        "source_credibility": 10,
+        "overall": 5
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 65
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 20,
+            "frequency": "日更",
+            "days_old": 0
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "大专金融科技应用专业考哪些证书比较好找工作,高薪",
+      "account_name": "培说证事",
+      "publish_time": "2026-03-14 13:40:29",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773487587&ver=6598&signature=jfGieqzV7oiXNCHAYZpD3R0jhm1bGABLGHxCwt3Ds29uD-3XdM9TzZfnjC2Y9v*Bj17j3ZRl3ASTAs1hOG74UFC9G6ddUCr523FdcV6lfOenJt20arm9TZ84GFIh5CJA&new=1",
+      "summary": "金融科技作为“金融+科技”的交叉领域,正成为企业数字化转型的核心驱动力.对于大专金融科技应用专业的学生而言,考证是突破......",
+      "scores": {
+        "content_quality": 1,
+        "source_credibility": 10,
+        "overall": 5
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 62
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 20,
+            "frequency": "日更",
+            "days_old": 0
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "科技赋能金融强国 消保护航安心消费——河南金融业“3·15”数字金融科技展绘就服务民生新图景",
+      "account_name": "郑州晚报TOP理财",
+      "publish_time": "2026-03-14 11:15:28",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773487587&ver=6598&signature=9EWovMGudCyyNoI2yCrRcThs2LrxON8nS4a8iQ7KZiZP-r5sfP-4boSBIdtjphNwzOYw5x8WRzkMWK2Uayhs8rvyC0WhaKihm9inrRD4q8MYv*y4dVXPW2WlbkLykZ7h&new=1",
+      "summary": "“金融强国·数字金融科技展”在此精彩启幕.河南金融监管局凝聚行业合力,各金融机构同频共振,以科技为桥连民心、以消保为核......",
+      "scores": {
+        "content_quality": 1,
+        "source_credibility": 10,
+        "overall": 5
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 62
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 20,
+            "frequency": "日更",
+            "days_old": 0
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "【科创金融】2026 年央行金融科技顶层部署会议核心解读:安全为底、AI 为翼,锚定高质量发展方向",
+      "account_name": "中小科创企业金融服务平台",
+      "publish_time": "2026-03-14 10:08:08",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773487587&ver=6598&signature=QI3BrHS-w*ialGRDJ-TAs1AjWhCOr5qD2XL2mc1hQc5vAALa49XQjvUgvLL9FamjL7wAC1vPt53F50ygBVpwHP4FuwD-Ohg7fG9xms2qLnqtY5RxLTfYqOK*wAwOxQcR&new=1",
+      "summary": "中国人民银行于  2026 年 3 月 11 日召开 2026 年科技工作会议,这是开年针对金融科技与数字金融的顶层部署,紧扣中央经济工作会......",
+      "scores": {
+        "content_quality": 1,
+        "source_credibility": 10,
+        "overall": 5
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 73
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 20,
+            "frequency": "日更",
+            "days_old": 0
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    }
+  ],
+  "summary": {
+    "average_content_score": 2,
+    "average_credibility_score": 10,
+    "average_overall_score": 5,
+    "top_3_articles": [
+      {
+        "title": "【提前招生】金融科技应用专业——“人工智能+”时代,科技金融,智赢未来!",
+        "account": "嘉兴南洋职业技术学院",
+        "score": 8
+      },
+      {
+        "title": "《金融科技和Web3的法律政策与监管》选修课第二讲:赵炳昊院长与于佳宁博士共话DeFi监管挑战与数字资产演进趋势",
+        "account": "炳烛夜谈Web3",
+        "score": 7
+      },
+      {
+        "title": "专升本专业介绍 | 金融科技(经管类)",
+        "account": "宁波财经学院招生办",
+        "score": 6
+      }
+    ]
+  }
+}

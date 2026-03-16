@@ -1,0 +1,340 @@
+{
+  "total_articles": 5,
+  "analyzed_articles": 5,
+  "analysis_time": "2026-03-14T23:31:40.563490",
+  "articles": [
+    {
+      "title": "早啊!新闻来了〔2018.05.09〕",
+      "account_name": "央视新闻",
+      "publish_time": "2018-05-09 06:00:37",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502289&ver=6598&signature=GE-0ZZJTqAz1kgiq3CjcphvBPozwO8znBtUlsKQyqdYagF*LbF4mI1rbjIRGlMgamAMzlo9iFzgzyJfouAkicqM8cv1CIIfEwKj2c5etTBPaupYRsquQmPvBYenhg9k8&new=1",
+      "summary": "选举中国人民银行行长易纲为BIS董事.△中国人民银行行长易纲今日提示●提醒:代查个人征信记录APP 可能泄露个人信息作为每个......",
+      "scores": {
+        "content_quality": 1,
+        "source_credibility": 7,
+        "overall": 4
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 65
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 2866
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "国际锐评 | 谁在控制全球贸易战的球?",
+      "account_name": "国际在线",
+      "publish_time": "2018-07-23 16:03:33",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502289&ver=6598&signature=lbUpBv9nyvLjA9UhU12LYZ3jV1WLsbnOD-C4NtgDMGS3C68Zd3iaipcsCzGJu*KDLae2qgMmrxqmCpoOuzHXnBRAiessoIxPX8nc9vAIsNPQLpK4oNr-MP4tpOsVslHj&new=1",
+      "summary": "二十国集团财长和央行行长会议在阿根廷举行为期两天的二十国集团财长和央行行长会议22日在阿根廷首都布宜诺斯艾利斯结束,贸易......",
+      "scores": {
+        "content_quality": 1,
+        "source_credibility": 7,
+        "overall": 4
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 63
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 2791
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "【三分钟速览新闻联播】2016.09.06",
+      "account_name": "央视网",
+      "publish_time": "2016-09-06 21:56:05",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773502289&ver=1&signature=6K-FtUQswXnxXowM2qjOiP*VroS-ic1Px1gRzFlQgCdxF0sNNOsHur0hW8z5VfQYjRXQtVjGpskm6dNL*Of4zXq5eUaINpzdjOgk1wDEGBFQV385O73AgLU9Cia7CEVAgQHuLDaL-VkR*m*vh2Ugz1EuSYpadQsE9jsxQA3Tqws=",
+      "summary": "世界银行行长金墉表示,此次G20峰会最重要的成果就是,通过共识和对话建立了一份让世界经济重回增长轨道的行动指南.  世界贸......",
+      "scores": {
+        "content_quality": 2,
+        "source_credibility": 7,
+        "overall": 4
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 64
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 5,
+            "markers": [
+              "有图表"
+            ]
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 3476
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "三分钟速览《新闻联播》2016.10.17",
+      "account_name": "央视网",
+      "publish_time": "2016-10-17 22:19:10",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773502289&ver=1&signature=6K-FtUQswXnxXowM2qjOiP*VroS-ic1Px1gRzFlQgCep1S23hC-H*gsDwgiz14IQJhMcIZw1cWggE1UTktV1CTmsSf1GHoPXkyD8vqUYhyXOPu0Dn2vY00rcGXUsqrxmHDklgvk7dgOmKMJHJpKDcmwDYIuzlxSP*cxnwx4C0qA=",
+      "summary": "金砖国家新开发银行行长向5国领导人汇报新开发银行工作进展.5国领导人还同参加金砖国家17岁以下少年足球赛的各国代表队队长合......",
+      "scores": {
+        "content_quality": 2,
+        "source_credibility": 7,
+        "overall": 4
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 64
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 5,
+            "markers": [
+              "有图表"
+            ]
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 3435
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "早啊!新闻来了〔2019.09.19〕",
+      "account_name": "央视新闻",
+      "publish_time": "2019-09-19 05:59:45",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502289&ver=6598&signature=GE-0ZZJTqAz1kgiq3CjcphvBPozwO8znBtUlsKQyqdbcytQKv4NkM5vqj37CgItQvUYL9Ek9ic5vGwGdC-fVD5gLwPKE6h93cAHSumDRmHo-QuvCmJ7dmBxxMli1BEmc&new=1",
+      "summary": "拉加德将于今年11月正式接替现任行长德拉吉,出任第四任行长.她也将成为欧洲央行首位女性行长.△资料图 拉加德韩国产业通商......",
+      "scores": {
+        "content_quality": 2,
+        "source_credibility": 7,
+        "overall": 4
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 63
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 5,
+            "markers": [
+              "有图表"
+            ]
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 2368
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    }
+  ],
+  "summary": {
+    "average_content_score": 1,
+    "average_credibility_score": 7,
+    "average_overall_score": 4,
+    "top_3_articles": [
+      {
+        "title": "早啊!新闻来了〔2018.05.09〕",
+        "account": "央视新闻",
+        "score": 4
+      },
+      {
+        "title": "国际锐评 | 谁在控制全球贸易战的球?",
+        "account": "国际在线",
+        "score": 4
+      },
+      {
+        "title": "【三分钟速览新闻联播】2016.09.06",
+        "account": "央视网",
+        "score": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "total_articles": 5,
+  "analyzed_articles": 5,
+  "analysis_time": "2026-03-14T23:31:40.452127",
+  "articles": [
+    {
+      "title": "普通人最该懂的轻金融",
+      "account_name": "袁说说",
+      "publish_time": "2026-03-14 13:15:49",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502284&ver=6598&signature=kBXURyVjjWTi3fPq6PZioZTuip28kZOlEPeeUKguD2l8KpINSmb9z*WtpEhBc6*QJ*LIh9rCrZXyln9b-dA-9yEdGneU4aN2*WCVqujJzdl2xxUIWhIBpnYICKIQW45G&new=1",
+      "summary": "轻金融思维,就是让你明白:人不能只靠努力赚钱,还要靠思维赚钱.不是让你立刻去投资,而是从今天开始,有意识地存钱、规划、......",
+      "scores": {
+        "content_quality": 1,
+        "source_credibility": 10,
+        "overall": 5
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 62
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 20,
+            "frequency": "日更",
+            "days_old": 0
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "轻金融:综合金融赛场,看广发银行的弯道超车",
+      "account_name": "广发银行微讯社",
+      "publish_time": "2019-06-11 17:00:32",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502285&ver=6598&signature=pFviiOBNqO5t3-9-bEWWTEA3NNVHwrYRCeWkMHmWuUU2-XlubvNntWr1BtMq-j9HbN6CTUjUSmKUtFwtgkFDomC9FHjcCIZsy5bTAXqPgYfzg8kXocGIWPyUcOAfVfxy&new=1",
+      "summary": "轻金融发现,在“老九家”股份行中,其不良率仅比招行一家高,同业中处于较低水平.在国寿的推动下,广发银行2018年完成了近......",
+      "scores": {
+        "content_quality": 4,
+        "source_credibility": 7,
+        "overall": 5
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 63
+          },
+          "data_references": {
+            "score": 10,
+            "level": "部分数据",
+            "count": 1
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 2468
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "工行、建行的“较量” | 轻金融",
+      "account_name": "轻金融",
+      "publish_time": "2019-04-30 12:17:15",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502285&ver=6598&signature=vax7jt3a5FH7WDcFE594TG-A9dZbIF7iZBcWAA1x7BTpIjW6LYhqm5PqGU9zWzr8AJObIHzNxfQn1k33RW7Z2DzK9Kgs4HpfsbuHQ25XBspx9rOshDBOD2BOBWl*dcTf&new=1",
+      "summary": "▲ 来源:轻金融  作者:李静瑕 两年前,由工行研究人员撰写的一份《建行竞争力提升之原因剖析》系列研究报告,引起一时轰动. ......",
+      "scores": {
+        "content_quality": 4,
+        "source_credibility": 7,
+        "overall": 5
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 65
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 15,
+            "markers": [
+              "专业术语",
+              "有引用"
+            ]
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 2510
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "轻金融·不良资产行业周报(第18期)",
+      "account_name": "轻财经",
+      "publish_time": "2017-11-11 18:50:54",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502284&ver=6598&signature=xjkUbWE8YYTzoX2vuwvnj8Qj3gg0P1VUEoSW2waYVFWoCOhgbZIvkI3CS55R9VxzYmbcox98Oq9wgAoRExeg1PV3Wvg50TXjGWzFwlAOVpp*U2yb*nkEjlu*VgUW9bRD&new=1",
+      "summary": "《轻金融·中国不良资产行业周报》:每周精选AMC/不良资产行业最有价值的行业信息,由轻金融智库出品.以下是本期9大事件:1......",
+      "scores": {
+        "content_quality": 1,
+        "source_credibility": 7,
+        "overall": 4
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 64
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 3045
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "更名为“轻金融不良资产”的公告与新栏目预告",
+      "account_name": "轻财经",
+      "publish_time": "2016-11-14 21:43:30",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773502285&ver=1&signature=Y9mFX-R6Ehj70voGnoXZR2cE*Gwu1VG9rER-GQHgEDPrNU4e7GghoCmUza-dQP7fCNO38CTOH7lHZ2tkDYk0rk01Y2qezvCjwOn-v0jOd0TPVjEnV9ABEJauMeBaXPT-vemw*t*2uawaCfhiJ1XTPz-dk9fD7eQH5XNMv9Nto4E=",
+      "summary": "一、“轻金融不良资产”各位朋友,今日起本号将更名为“轻金融不良资产”.作为“轻金融”的不良资产子账号,本号创建以来得到......",
+      "scores": {
+        "content_quality": 1,
+        "source_credibility": 7,
+        "overall": 4
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 62
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 3407
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    }
+  ],
+  "summary": {
+    "average_content_score": 2,
+    "average_credibility_score": 7,
+    "average_overall_score": 4,
+    "top_3_articles": [
+      {
+        "title": "普通人最该懂的轻金融",
+        "account": "袁说说",
+        "score": 5
+      },
+      {
+        "title": "轻金融:综合金融赛场,看广发银行的弯道超车",
+        "account": "广发银行微讯社",
+        "score": 5
+      },
+      {
+        "title": "工行、建行的“较量” | 轻金融",
+        "account": "轻金融",
+        "score": 5
+      }
+    ]
+  }
+}

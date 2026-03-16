@@ -1,0 +1,133 @@
+{
+  "accounts": {
+    "ai": [
+      "机器之心",
+      "量子位",
+      "新智元",
+      "极客公园",
+      "智东西"
+    ],
+    "fintech": [
+      "馨金融",
+      "零壹财经",
+      "未央网",
+      "一本财经",
+      "十字财经",
+      "新金融洛书",
+      "独角金融"
+    ],
+    "payment": [
+      "移动支付网",
+      "支付百科"
+    ],
+    "consumer_finance": [
+      "消金界",
+      "第一消费金融"
+    ],
+    "banking": [
+      "轻金融",
+      "中国银行保险报",
+      "银行家杂志",
+      "愉见财经",
+      "零售银行",
+      "信贷风险管理",
+      "支行长",
+      "行长要参",
+      "银行科技研究社"
+    ],
+    "official_banks": [
+      "中国工商银行",
+      "中国建设银行",
+      "中国农业银行",
+      "中国银行",
+      "中国邮政储蓄银行",
+      "交通银行",
+      "招商银行",
+      "兴业银行",
+      "中信银行",
+      "上海浦东发展银行"
+    ],
+    "local_banks": [
+      "中原银行",
+      "宁波银行",
+      "盛京银行",
+      "蒙商银行"
+    ],
+    "research": [
+      "CF40",
+      "星图金融研究院",
+      "金融论坛",
+      "金融数字化观察"
+    ],
+    "media": [
+      "第一财经",
+      "澎湃新闻",
+      "金融界",
+      "华尔街见闻",
+      "36氪",
+      "钛媒体",
+      "东方财富网",
+      "投资明见",
+      "思维纪要社",
+      "国际金融报"
+    ],
+    "securities": [
+      "中金证券",
+      "华泰证券",
+      "招商证券"
+    ],
+    "regulatory": [
+      "央行发布",
+      "国家金融监督管理总局"
+    ],
+    "ecosystem": [
+      "银行青年",
+      "商行新鲜事"
+    ]
+  },
+  "search_strategies": {
+    "ai_frontier": {
+      "keywords": ["大模型", "AI前沿", "生成式AI", "AGI"],
+      "accounts": ["机器之心", "量子位", "新智元"],
+      "priority": 1
+    },
+    "payment_innovation": {
+      "keywords": ["数字人民币", "第三方支付", "跨境支付"],
+      "accounts": ["移动支付网", "支付百科", "十字财经"],
+      "priority": 2
+    },
+    "consumer_finance": {
+      "keywords": ["风控", "助贷", "消费金融"],
+      "accounts": ["消金界", "第一消费金融", "零壹财经"],
+      "priority": 2
+    },
+    "banking_transformation": {
+      "keywords": ["数字化", "开放银行", "零售转型"],
+      "accounts": ["金融数字化观察", "零售银行", "轻金融"],
+      "priority": 2
+    },
+    "regulatory_policy": {
+      "keywords": ["监管", "政策", "罚单", "降准"],
+      "accounts": ["央行发布", "国家金融监督管理总局", "澎湃新闻"],
+      "priority": 1
+    },
+    "executive_dynamics": {
+      "keywords": ["人事", "高管", "战略"],
+      "accounts": ["行长要参", "中国银行业杂志"],
+      "priority": 3
+    }
+  },
+  "quality_thresholds": {
+    "high_quality": 85,
+    "recommended": 70,
+    "acceptable": 55,
+    "reference": 40
+  },
+  "report_settings": {
+    "days": 7,
+    "min_score": 70,
+    "top_articles": 10,
+    "include_details": true,
+    "auto_commit": true
+  }
+}

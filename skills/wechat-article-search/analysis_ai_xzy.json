@@ -1,0 +1,339 @@
+{
+  "total_articles": 5,
+  "analyzed_articles": 5,
+  "analysis_time": "2026-03-14T23:31:40.025556",
+  "articles": [
+    {
+      "title": "新智元 | 人工智能Gemini攻克「宇宙弦」终极难题!AI科学家最优雅解法震撼物理学",
+      "account_name": "金声不易",
+      "publish_time": "2026-03-10 06:05:25",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502269&ver=6598&signature=Tmg24EWcsNJ0cR1LBA5pmMMe*mIbye8TUsRQg*XfAhcuPX6MratCDBSAtDWAXrvIc5BfqklcG9ilGroMvDnCK7W5bYXK5zF-ZQXchImqnAVyzSifozAxnSniVc0r-xHt&new=1",
+      "summary": "新智元报道  编辑:定慧转自:微信公众号【新智元】就在刚刚,Google Research团队用Gemini Deep Think + 树搜索框架,独立攻克......",
+      "scores": {
+        "content_quality": 3,
+        "source_credibility": 9,
+        "overall": 6
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 81
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 10,
+            "markers": [
+              "专业术语"
+            ]
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 15,
+            "frequency": "周更",
+            "days_old": 4
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "新智元一周年专家寄语(现场直播)",
+      "account_name": "新智元",
+      "publish_time": "2016-09-07 14:38:11",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773502269&ver=1&signature=TuAMvlukldb23hcWJPdVOp8P8bAFnBRM-EHMq2o2BzSGXSoWbvZekd-yVA4mFSFLOtF3vQsNoGeEs37bagZIhFPCE8Kj78ExD08nZBR8SMI8Nuuskm616-DaU2eaPIxAFl4AnO9QJSjXOYjRyEKLXMIThhtp79xKo5LL-VKt7J4=",
+      "summary": "2016年9月7日  新智元一周岁专家寄语白 硕  新智元智库首席执委、上海证交所前CTO 新智元这一年的历程,是不断拼搏、不断升华的......",
+      "scores": {
+        "content_quality": 4,
+        "source_credibility": 7,
+        "overall": 5
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 70
+          },
+          "data_references": {
+            "score": 10,
+            "level": "部分数据",
+            "count": 1
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 3475
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "【新智元】智能+未来:讯飞超脑最强干货分享 —— 胡郁专访",
+      "account_name": "科大讯飞",
+      "publish_time": "2019-07-28 21:04:37",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502269&ver=6598&signature=-4Kl8hHz9snZ8G*Kr05d5-OxRq9S0*sy43U0yHEu-Ivc9ccoiLS-so3A3-xhrsgHJedMr8*oAdVPYkzzyNxzyOeT7SSwk2SvdZPlyTHNt4k=&new=1",
+      "summary": "新智元编辑1整理:王婉婷 李宏菲12月21日,科大讯飞2015年度发布会震撼登场.发布会上讯飞董事长刘庆峰展望了“讯飞超脑”的......",
+      "scores": {
+        "content_quality": 4,
+        "source_credibility": 7,
+        "overall": 5
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 66
+          },
+          "data_references": {
+            "score": 10,
+            "level": "部分数据",
+            "count": 1
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 2421
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "【新智元100】7 张图看懂美国人工智能产业",
+      "account_name": "新智元",
+      "publish_time": "2016-08-30 20:12:05",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773502269&ver=1&signature=TuAMvlukldb23hcWJPdVOp8P8bAFnBRM-EHMq2o2BzTK-n*h-yYCwJoTqrgpVbqvL3EeHoRrB6LBg5lVSh8Je0G2Lb-Lu9lanf2e2vFQRYapqKllJM08Rf5zXfL0Lu9lpJ5Ej0Qjdc-0X-UN8SZcQHKSVJNnLXYWlVi67SkQ*S0=",
+      "summary": "1新智元编译1 来源:O'Reilly译者:胡祥杰  张冬君【新智元导读】本文是O'reilly的报告《 美国人工智能新市场》的作者Aman Naimat......",
+      "scores": {
+        "content_quality": 4,
+        "source_credibility": 7,
+        "overall": 5
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 80
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 15,
+            "markers": [
+              "专业术语",
+              "有引用"
+            ]
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 3483
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    },
+    {
+      "title": "新智元重磅发布《2018华人AI青年学术影响力百人名单》,清华学者霸榜",
+      "account_name": "新智元",
+      "publish_time": "2019-03-13 20:08:01",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773502269&ver=6598&signature=IZ3dVX0x8qYkQoSrTv8Bbke3PgScqMu*J6uuBm4QZOaqXbBiO6L7qNW31Oq-kHGM9kY3t81GrdYBvoViIJw1kGBI2J1w6s*kD3wM3qfTzCw7qr8L8y9u8oVfwJwgrTOI&new=1",
+      "summary": "新智元原创 作者:羽未、索夫、木青【新智元导读】今日,新智元重磅独家发布《2018华人AI青年学术影响力百人名单》,评选出100......",
+      "scores": {
+        "content_quality": 1,
+        "source_credibility": 7,
+        "overall": 4
+      },
+      "details": {
+        "content": {
+          "word_count": {
+            "score": 0,
+            "level": "内容过短",
+            "actual": 67
+          },
+          "data_references": {
+            "score": 0,
+            "level": "无数据引用",
+            "count": 0
+          },
+          "structure": {
+            "score": 5,
+            "items": [
+              "摘要"
+            ],
+            "completeness": "1/4"
+          },
+          "professionalism": {
+            "score": 0,
+            "markers": []
+          }
+        },
+        "credibility": {
+          "certification": {
+            "score": 0,
+            "status": "未认证"
+          },
+          "follower_influence": {
+            "score": 10,
+            "level": "1w-10w 粉丝"
+          },
+          "update_frequency": {
+            "score": 5,
+            "frequency": "不定期",
+            "days_old": 2558
+          },
+          "institution_type": {
+            "score": 10,
+            "type": "个人博客"
+          }
+        }
+      },
+      "recommendation": {
+        "stars": "⭐",
+        "level": "不推荐",
+        "reason": "质量较差，不建议阅读"
+      }
+    }
+  ],
+  "summary": {
+    "average_content_score": 3,
+    "average_credibility_score": 7,
+    "average_overall_score": 5,
+    "top_3_articles": [
+      {
+        "title": "新智元 | 人工智能Gemini攻克「宇宙弦」终极难题!AI科学家最优雅解法震撼物理学",
+        "account": "金声不易",
+        "score": 6
+      },
+      {
+        "title": "新智元一周年专家寄语(现场直播)",
+        "account": "新智元",
+        "score": 5
+      },
+      {
+        "title": "【新智元】智能+未来:讯飞超脑最强干货分享 —— 胡郁专访",
+        "account": "科大讯飞",
+        "score": 5
+      }
+    ]
+  }
+}

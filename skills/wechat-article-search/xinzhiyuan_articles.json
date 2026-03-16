@@ -1,0 +1,206 @@
+{
+  "query": "新智元",
+  "total": 20,
+  "articles": [
+    {
+      "title": "新智元 | 人工智能Gemini攻克「宇宙弦」终极难题!AI科学家最优雅解法震撼物理学",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773488604&ver=6598&signature=Tmg24EWcsNJ0cR1LBA5pmMMe*mIbye8TUsRQg*XfAhcydmt1DQee8zZPABel*oCkoy0KXKr*Yo7CgO0mYeZMuv*3XnDFRnr0xj*iGPJeaqTbhIGUWOiaDNiErFePmo9z&new=1",
+      "summary": "新智元报道  编辑:定慧转自:微信公众号【新智元】就在刚刚,Google Research团队用Gemini Deep Think + 树搜索框架,独立攻克...",
+      "datetime": "2026-03-10 06:05:25",
+      "date_text": "2026年03月10日",
+      "date_description": "4天前",
+      "source": "金声不易",
+      "url_resolved": true
+    },
+    {
+      "title": "新智元一周年专家寄语(现场直播)",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773488604&ver=1&signature=TuAMvlukldb23hcWJPdVOp8P8bAFnBRM-EHMq2o2BzSGXSoWbvZekd-yVA4mFSFLOtF3vQsNoGeEs37bagZIhFPCE8Kj78ExD08nZBR8SMI8Nuuskm616-DaU2eaPIxAft0J8NN-8-MsuYPfgxX9Wge46WJv6baGns34f8QICV8=",
+      "summary": "2016年9月7日  新智元一周岁专家寄语白 硕  新智元智库首席执委、上海证交所前CTO 新智元这一年的历程,是不断拼搏、不断升华的...",
+      "datetime": "2016-09-07 14:38:11",
+      "date_text": "2016年09月07日",
+      "date_description": "3475天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "新智元重磅发布《2018华人AI青年学术影响力百人名单》,清华学者霸榜",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773488604&ver=6598&signature=IZ3dVX0x8qYkQoSrTv8Bbke3PgScqMu*J6uuBm4QZObv*osLT10GM63*DLFu4spdw2KAYkbTHRzCXCVLr9-tSOyxQCm7Xq1goHQK1grsekE64GJBMOMHxhBrP*cfsA50&new=1",
+      "summary": "新智元原创 作者:羽未、索夫、木青【新智元导读】今日,新智元重磅独家发布《2018华人AI青年学术影响力百人名单》,评选出100...",
+      "datetime": "2019-03-13 20:08:01",
+      "date_text": "2019年03月13日",
+      "date_description": "2557天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "【新智元】智能+未来:讯飞超脑最强干货分享 —— 胡郁专访",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773488604&ver=6598&signature=-4Kl8hHz9snZ8G*Kr05d5-OxRq9S0*sy43U0yHEu-It0S0oobSF8qfnLTaW9n9uqyghsafcwdC1eBtITbWWyRB8GPdGqFU8PJRJU*oWcUdc=&new=1",
+      "summary": "新智元编辑1整理:王婉婷 李宏菲12月21日,科大讯飞2015年度发布会震撼登场.发布会上讯飞董事长刘庆峰展望了“讯飞超脑”的...",
+      "datetime": "2019-07-28 21:04:37",
+      "date_text": "2019年07月28日",
+      "date_description": "2420天前",
+      "source": "科大讯飞",
+      "url_resolved": true
+    },
+    {
+      "title": "【新智元100】7 张图看懂美国人工智能产业",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773488604&ver=1&signature=TuAMvlukldb23hcWJPdVOp8P8bAFnBRM-EHMq2o2BzTK-n*h-yYCwJoTqrgpVbqvL3EeHoRrB6LBg5lVSh8Je0G2Lb-Lu9lanf2e2vFQRYapqKllJM08Rf5zXfL0Lu9lTnYWSu6JkR*-pljDvqtm9lYMb-nr2j1KPJwiTdNnSAU=",
+      "summary": "1新智元编译1 来源:O'Reilly译者:胡祥杰  张冬君【新智元导读】本文是O'reilly的报告《 美国人工智能新市场》的作者Aman Naimat...",
+      "datetime": "2016-08-30 20:12:05",
+      "date_text": "2016年08月30日",
+      "date_description": "3482天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "【新智元专访】李飞飞:从斯坦福到谷歌云,让 AI 成为计算之魂",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773488604&ver=1&signature=TuAMvlukldb23hcWJPdVOp8P8bAFnBRM-EHMq2o2BzS3HimTAMv*sRFZa5h3IWs5MLMhoVOKTW0dAPMyBlu3itD7zVMkrJFkoL1IhdafqQMgo--DYC91XvIJhvxoYadsLdQMX3OkUZ8qm7zP29QyDIirr8VAzyV0uoc9CNbaXDI=",
+      "summary": "1新智元原创  整理: 闻菲新智元日前宣布,获6家顶级机构总额达数千万元的PreA轮融资,蓝驰创投领投,红杉资本中国基金、高瓴智...",
+      "datetime": "2017-01-20 11:11:18",
+      "date_text": "2017年01月20日",
+      "date_description": "3340天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "【新智元3·29峰会嘉宾曝光】诺奖评审x技术领袖详解AI产业跃迁路线图",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773488604&ver=6598&signature=IZ3dVX0x8qYkQoSrTv8Bbke3PgScqMu*J6uuBm4QZObLBk9iRRmIMh8IEPbFmN9ngHvoDTCiv6KgAMB3IdM1W3LayQj77IayO0yEbRTC1Gn9AYaOEq4W7sXIzpfQjPBf&new=1",
+      "summary": "新智元“产业·跃迁”AI技术峰会 2018年3月14日,微软宣布其研发的机器翻译系统首次在通用新闻的汉英翻译上达到了人类专业水平...",
+      "datetime": "2018-03-21 14:08:35",
+      "date_text": "2018年03月21日",
+      "date_description": "2915天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "【新智元】六大院长:人工智能技术与趋势报告(干货+视频)",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773488604&ver=1&signature=TuAMvlukldb23hcWJPdVOp8P8bAFnBRM-EHMq2o2BzRKJ1DnRFHlgKKs78*OpTfOs-QkDsDUGbSEodNnc1mDPuzFzo3-J5h5x9PmaKyamu-PLDA6fAjzZJIQgJE8HNBf11soRE0z2qFQ3uF21sZAYQ==",
+      "summary": "新智元原创1作者:闻菲【新智元导读】新智元“3·27”大会圆满成功,本文在介绍大会之外,更提炼了科大讯飞、微软、三星电子、...",
+      "datetime": "2016-03-30 22:05:23",
+      "date_text": "2016年03月30日",
+      "date_description": "3635天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "新智元十年,上地AI家,邀你加入!",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773488604&ver=6598&signature=IZ3dVX0x8qYkQoSrTv8Bbke3PgScqMu*J6uuBm4QZOZuGpUIdBc2Tmie5OD3qpH1yj1NWPlxiujb9xwePnBIyjS*kOrmgebmRnhJ-fP9ylTa0AVywPg1xqUC*wEmVBrc&new=1",
+      "summary": "新智元报道  【新智元导读】2025年9月7日,新智元十周年!十年求索,奇点共盟.值此,新智元在上地AI家邀你加入,共同见证ASI...",
+      "datetime": "2025-12-15 13:10:06",
+      "date_text": "2025年12月15日",
+      "date_description": "89天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "新智元投资领袖圆桌:未来20年市值排名前五的一定是人工智能公司",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773488604&ver=1&signature=TuAMvlukldb23hcWJPdVOp8P8bAFnBRM-EHMq2o2BzTM6Is0AITgw9XMCM0X2m2ohwhvWTIzP3i6mg7WV0agZXfnifNL0EnS-6rSsH03Gqxrk4DRKLEx22yiRLG-JsAzvi1c451HJHlLYT-YOSdnyT6rkVoWZvfOJETO95s8UXg=",
+      "summary": "1 新智元原创   整理:刘小芹、闻菲【新智元导读】10月18日首届 AI WORLD 2016 世界人工智能大会 新智元100论坛,特设“新智元...",
+      "datetime": "2016-10-24 19:56:21",
+      "date_text": "2016年10月24日",
+      "date_description": "3427天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "【新智元笔记】反伊莉莎效应,人工智能的新概念",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773488606&ver=1&signature=TuAMvlukldb23hcWJPdVOp8P8bAFnBRM-EHMq2o2BzRg9MihsTB*4j3yOhphDkiRQfYsDYjcvUujBde1t46aShkSsdwBFu*a0PdrFGGexwk8Hd9byLtmSXlJpwWpZryKHVNwdem2grTD7TFJlTXuAw==",
+      "summary": "新智元推荐1 来源:科学网作者:李维【立委按】隆重推出立委版人工智能新概念【反伊莉莎效应】,以后如果进了AI历史,各位都是...",
+      "datetime": "2016-01-11 23:13:34",
+      "date_text": "2016年01月11日",
+      "date_description": "3714天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "【新智元专访】微软中国首位“全球杰出工程师”张祺:行业+AI加速中国企业数字化转型和产业升级",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773488606&ver=6598&signature=IZ3dVX0x8qYkQoSrTv8Bbke3PgScqMu*J6uuBm4QZOb79VQb589r8trwsbM8Hu9oKIQs3RJHUEZOc8*wEcuTsmSYrKSrSlxGgeI-JhAV33TlzTFW3NT7hHobQw2G9V70&new=1",
+      "summary": "【2018 新智元 AI 技术峰会倒计时 7 天】2018年3月29日,北京举办的2018年中国AI开年盛典——新智元产业·跃迁AI技术峰会,邀微...",
+      "datetime": "2018-03-22 10:50:17",
+      "date_text": "2018年03月22日",
+      "date_description": "2914天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "新智元杨静:把人工智能当成信仰去创业",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773488606&ver=1&signature=TuAMvlukldb23hcWJPdVOp8P8bAFnBRM-EHMq2o2BzTEb6HJLzbXxw5IDNu7Y0BsbD9CcFpEgSEgam9XsaeJbyfzCEBvT0fA7y68Zsuw6oEO7BytRSLFNfXUoZ03VF*yqQvrNLLxLmmWaFvkdlowxKBBbVYz1xJLDlk3d930j10=",
+      "summary": "1 新智元推荐  来源:品途商业评论作者:杨国辉【新智元导读】 上周品途商业评论对新智元创始人杨静进行了专访.在专访中杨静介...",
+      "datetime": "2017-02-20 15:22:53",
+      "date_text": "2017年02月20日",
+      "date_description": "3309天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "【新智元人工智能创业家】陈天石:寒武纪,全球首款深度学习专用处理器",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773488606&ver=1&signature=TuAMvlukldb23hcWJPdVOp8P8bAFnBRM-EHMq2o2BzQso8DaQbwMZwoonbPG*Xraj4tFwZVbd8lWcoDfVtkYq1-B0J2xfQd9e6mu5ry1L6zxQCSo1eVe9N9kmWVy6lL4oo7PMx5n90gSzq2y3v73-w==",
+      "summary": "新智元原创1陈天石在新智元超智能时代大会上发表演讲 来源:新智元【新智元导读】“NVIDIA的芯片虽说重点关注人工智能市场,...",
+      "datetime": "2016-04-08 20:29:46",
+      "date_text": "2016年04月08日",
+      "date_description": "3626天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "英伟达和这些虚拟人同台!2022「元宇宙 新人类」论坛新智元直播预告",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773488606&ver=6598&signature=IZ3dVX0x8qYkQoSrTv8Bbke3PgScqMu*J6uuBm4QZObHc1dgBbHWKypWFTWurBCV-GmYUqiZUr61wqw8do6SUH7TuRpId67g0Lz4ImbZPBYG4KZNvjY-j9rgxAYwZZ9w&new=1",
+      "summary": "新智元报道 编辑:时光 好困3月30日(周三),新智元首期元宇宙论坛「元宇宙 新人类」即将上线!新智元创始人杨静、英伟达亚太...",
+      "datetime": "2022-03-23 07:26:18",
+      "date_text": "2022年03月23日",
+      "date_description": "1452天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "招人!新智元邀你勇闯AGI之巅",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773488606&ver=6598&signature=IZ3dVX0x8qYkQoSrTv8Bbke3PgScqMu*J6uuBm4QZObX3cNBS-cvVW1qyorWxYf2wJ2LNcY*ANkEDAKtFwmMt3lZ*NrpVSbbkQXk-NvpU8SN3RSWOWllw1MY660404Iq&new=1",
+      "summary": "新智元报道 【新智元导读】AGI时代,新智元AI星舰整装待发.浩瀚AI宇宙,我们召唤你!2024年,AGI时代,新智元星舰远航第9年....",
+      "datetime": "2024-04-16 19:35:00",
+      "date_text": "2024年04月16日",
+      "date_description": "697天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "【新智元专访】吴恩达:百度要做智能时代的“超级电力公司”",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773488606&ver=1&signature=TuAMvlukldb23hcWJPdVOp8P8bAFnBRM-EHMq2o2BzT5v9h1v5KQTZ-LIsqglS2Mo0zYz0OHlfGVSh5aqM0BXXhouVIz1X-QSawwl8N8W5fuScbriZQZ8iXcgfshK4JLLJsSJgVUKQzyKnkfjQt3SejvTI0IUJye*A6x17vzsao=",
+      "summary": "1 新智元原创1【新智元导读】今天2016百度世界大会,吴恩达接受新智元等几家核心媒体专访.这也是吴恩达最近半年面对媒体最长...",
+      "datetime": "2016-09-01 21:49:41",
+      "date_text": "2016年09月01日",
+      "date_description": "3480天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "【新智元人工智能创业家】余凯:无处不在的 AI Inside,地平线再获Yuri Milner注资",
+      "url": "https://mp.weixin.qq.com/s?src=3&timestamp=1773488606&ver=1&signature=TuAMvlukldb23hcWJPdVOp8P8bAFnBRM-EHMq2o2BzSr-AWFyUENbRG9xSqyfrCVedvJm-BhcUQakrMtTo6isHHshZGODeBJHi95RpeT36SboopiJDEW1HL-6UdLe6rttOh1HKRnUr6RL1JIBY4Nkw==",
+      "summary": "新智元原创1【新智元导读】“新智元 2015 人工智能创业家”得主余凯所创立的地平线机器人公司近日获得了著名风险投资家、...",
+      "datetime": "2016-04-09 22:31:17",
+      "date_text": "2016年04月09日",
+      "date_description": "3625天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "新智元《2019AI独角兽白皮书》重磅发布!58%落户北京,1/4 舵手出自清华",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773488606&ver=6598&signature=IZ3dVX0x8qYkQoSrTv8Bbke3PgScqMu*J6uuBm4QZOYX-n54IOVFOJ*hNKyPRDO0P-557Towk1Dc7Eexn6se5vBVaQm0s9jv*V3JLZHEn38EgHHA0QkwulbzAORaAE2U&new=1",
+      "summary": "新智元巨献  作者:羽未、索夫、木青【新智元导读】即使投资市场日趋平寂,也挡不住中国人工智能创业市场的如火如荼.智能+中国...",
+      "datetime": "2019-04-01 12:45:07",
+      "date_text": "2019年04月01日",
+      "date_description": "2539天前",
+      "source": "新智元",
+      "url_resolved": true
+    },
+    {
+      "title": "清华大学教授孙茂松当选欧洲科学院外籍院士|新智元对话孙茂松",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1773488606&ver=6598&signature=IZ3dVX0x8qYkQoSrTv8Bbke3PgScqMu*J6uuBm4QZObWe0DwOfTtks9857SdjyY*K9P8A78v5yN6ZMUqqUDxEB9SOv8pP845ZAt8PfQ7b4Odm4Vfu*4VT1OCaLH3bK7w&new=1",
+      "summary": "新智元报道 来源:ae-info编辑:雅新【新智元导读】近日,欧洲科学院公布了2020年新晋院士名单,清华大学计算机系教授孙茂松当...",
+      "datetime": "2020-08-06 13:04:49",
+      "date_text": "2020年08月06日",
+      "date_description": "2046天前",
+      "source": "新智元",
+      "url_resolved": true
+    }
+  ]
+}
