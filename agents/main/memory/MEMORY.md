@@ -12,6 +12,37 @@
 - 命令: `python "$env:USERPROFILE\.skillhub\skills_store_cli.py" --dir "$env:USERPROFILE\.agents\skills" install <slug>`
 - 版本: 2026.3.18
 
+## GitHub 仓库与 Agent 提交流程
+- **仓库**: `flyan/walle-workspace` (`git@github.com:flyan/walle-workspace.git`)
+- **Agent workspace 存放路径**: `agents-workspaces/`（与 writer/coder 平级）
+  - `agents-workspaces/secretary/` — secretary workspace
+  - `agents-workspaces/writer/` — writer workspace
+  - `agents-workspaces/coder/` — coder workspace
+- **Agent 配置存放路径**: `agents/`（agent models.json、sessions 等）
+  - `agents/secretary/agent/models.json`
+  - `agents/main/` — main agent 配置
+- **敏感文件**（gitignore，不上传）: `auth-profiles.json`
+
+### 上传 Agent 到 GitHub 的标准流程
+当 Leon 要求上传 agents/workspace 到 GitHub 时，执行以下步骤：
+
+1. **确认目录位置**：
+   - workspace 文件 → 放在 `agents-workspaces/<name>/` 下（与 writer/coder 平级）
+   - agent 配置 → 放在 `agents/<name>/` 下
+
+2. **提交 git**：
+   ```
+   git add agents/<name>/ agents-workspaces/<name>/
+   git commit -m "feat: add <name> agent"
+   git push origin main
+   ```
+
+3. **不需要开 PR 分支**：直接 push 到 main（仓库目前是单人或小团队使用，直接推 main 更高效）
+
+4. **openclaw.json 更新**：如果修改了配置，确保路径指向正确的 workspace 目录后同步更新 git
+
+日期: 2026-03-25
+
 ## 已安装的 Skywork 技能（公共目录）
 - skywork-document（安装到了 workspace/skills，后续需要迁移）
 - skywork-music-maker
