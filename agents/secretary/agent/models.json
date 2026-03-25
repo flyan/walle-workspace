@@ -1,0 +1,335 @@
+{
+  "providers": {
+    "anthropic": {
+      "baseUrl": "https://code.mmkg.cloud",
+      "apiKey": "sk-392c4f837eae6b3725c0a6e35d3eda73396ad9f5ca6aa8c2386bbea85f38b777",
+      "auth": "api-key",
+      "api": "anthropic-messages",
+      "headers": {},
+      "authHeader": true,
+      "models": [
+        {
+          "id": "claude-opus-4-6",
+          "name": "Claude Opus 4.6",
+          "api": "anthropic-messages",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 200000,
+          "maxTokens": 16384,
+          "compat": {
+            "supportsStore": true,
+            "supportsDeveloperRole": true,
+            "supportsReasoningEffort": true
+          }
+        },
+        {
+          "id": "claude-opus-4-5-20251101",
+          "name": "Claude Opus 4.5",
+          "api": "anthropic-messages",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 200000,
+          "maxTokens": 8192,
+          "compat": {
+            "supportsStore": true,
+            "supportsDeveloperRole": true,
+            "supportsReasoningEffort": true
+          }
+        },
+        {
+          "id": "claude-sonnet-4-6",
+          "name": "Claude Sonnet 4.6",
+          "api": "anthropic-messages",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 200000,
+          "maxTokens": 16384,
+          "compat": {
+            "supportsStore": true,
+            "supportsDeveloperRole": true,
+            "supportsReasoningEffort": true
+          }
+        },
+        {
+          "id": "claude-sonnet-4-5-20250929",
+          "name": "Claude Sonnet 4.5",
+          "api": "anthropic-messages",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 200000,
+          "maxTokens": 8192,
+          "compat": {
+            "supportsStore": true,
+            "supportsDeveloperRole": true,
+            "supportsReasoningEffort": true
+          }
+        },
+        {
+          "id": "claude-haiku-4-5-20251001",
+          "name": "Claude Haiku 4.5",
+          "api": "anthropic-messages",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 200000,
+          "maxTokens": 8192,
+          "compat": {
+            "supportsStore": true,
+            "supportsDeveloperRole": true,
+            "supportsReasoningEffort": true
+          }
+        }
+      ]
+    },
+    "deepseek": {
+      "baseUrl": "https://api.deepseek.com/v1",
+      "apiKey": "sk-bbe48a3e695249a9b61c7f6ab494542f",
+      "api": "openai-completions",
+      "models": [
+        {
+          "id": "deepseek-chat",
+          "name": "deepseek-chat"
+        },
+        {
+          "id": "deepseek-reasoner",
+          "name": "deepseek-reasoner",
+          "reasoning": true
+        }
+      ]
+    },
+    "gemini": {
+      "baseUrl": "https://new.lemonapi.site/v1",
+      "apiKey": "sk-bVkM18O0A7VznAaRFB6GYvkW6hGkRxE9caFOsJvj992nzJ30",
+      "api": "openai-completions",
+      "models": [
+        {
+          "id": "[L]gemini-3-pro-preview-search",
+          "name": "[L]gemini-3-pro-preview-search",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "contextWindow": 2000000,
+          "maxTokens": 8192
+        },
+        {
+          "id": "[L]gemini-3-pro-preview",
+          "name": "[L]gemini-3-pro-preview",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "contextWindow": 2000000,
+          "maxTokens": 8192
+        },
+        {
+          "id": "[L]gemini-3-flash-preview",
+          "name": "[L]gemini-3-flash-preview",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "contextWindow": 2000000,
+          "maxTokens": 8192
+        }
+      ]
+    },
+    "openrouter": {
+      "baseUrl": "https://openrouter.ai/api/v1",
+      "api": "openai-completions",
+      "models": [
+        {
+          "id": "auto",
+          "name": "OpenRouter Auto",
+          "reasoning": false,
+          "input": [
+            "text",
+            "image"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 200000,
+          "maxTokens": 8192
+        },
+        {
+          "id": "openrouter/hunter-alpha",
+          "name": "Hunter Alpha",
+          "reasoning": true,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 1048576,
+          "maxTokens": 65536
+        },
+        {
+          "id": "openrouter/healer-alpha",
+          "name": "Healer Alpha",
+          "reasoning": true,
+          "input": [
+            "text",
+            "image"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 262144,
+          "maxTokens": 65536
+        }
+      ],
+      "apiKey": "OPENROUTER_API_KEY"
+    },
+    "minimax-portal": {
+      "baseUrl": "https://api.minimaxi.com/anthropic",
+      "api": "anthropic-messages",
+      "authHeader": true,
+      "models": [
+        {
+          "id": "MiniMax-M2.5",
+          "name": "MiniMax M2.5",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 200000,
+          "maxTokens": 8192,
+          "api": "anthropic-messages"
+        },
+        {
+          "id": "MiniMax-M2.5-highspeed",
+          "name": "MiniMax M2.5 Highspeed",
+          "reasoning": true,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 200000,
+          "maxTokens": 8192,
+          "api": "anthropic-messages"
+        },
+        {
+          "id": "MiniMax-M2.5-Lightning",
+          "name": "MiniMax M2.5 Lightning",
+          "reasoning": true,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 200000,
+          "maxTokens": 8192,
+          "api": "anthropic-messages"
+        },
+        {
+          "id": "MiniMax-VL-01",
+          "name": "MiniMax VL 01",
+          "reasoning": false,
+          "input": [
+            "text",
+            "image"
+          ],
+          "cost": {
+            "input": 0.3,
+            "output": 1.2,
+            "cacheRead": 0.03,
+            "cacheWrite": 0.12
+          },
+          "contextWindow": 200000,
+          "maxTokens": 8192
+        }
+      ],
+      "apiKey": "minimax-oauth"
+    },
+    "minimax-cn": {
+      "baseUrl": "https://api.minimaxi.com/anthropic",
+      "api": "anthropic-messages",
+      "authHeader": true,
+      "models": [
+        {
+          "id": "MiniMax-M2.7",
+          "name": "MiniMax M2.7",
+          "reasoning": true,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0.3,
+            "output": 1.2,
+            "cacheRead": 0.03,
+            "cacheWrite": 0.12
+          },
+          "contextWindow": 200000,
+          "maxTokens": 8192,
+          "api": "anthropic-messages"
+        }
+      ],
+      "apiKey": "sk-cp-rhn8H8UI_msYwPcqWvKO2_lXr8dcYa3ijC6kJA6vcrQ0zj_3mitNq0vHKNSDE3NfVPZNBKUO5WkSsYSyGaSfZaBDZrV4o8eL26OAjNWfCTfvb-ct6b6j9Jo"
+    }
+  }
+}
