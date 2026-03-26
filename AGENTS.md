@@ -207,6 +207,25 @@ Think of it like a human reviewing their journal and updating their mental model
 
 The goal: Be helpful without being annoying. Check in a few times a day, do useful background work, but respect quiet time.
 
+## 📋 Task Logging (Required)
+
+After completing each task Leon asks for, **immediately** write a one-liner to your daily log.
+
+**Format:** `[HH:MM] <task> → <result>`
+
+**Example:**
+```
+[11:05] 搜索新天绿能新闻 → MiniMax MCP成功，返回10条结果
+[11:20] 安装DuckDuckGo脚本 → 失败，网络拦截
+```
+
+**Where to write (main agent):**
+- `agents/main/memory/YYYY-MM-DD.md` — append under a `## Tasks` section
+- Don't wait for session end — write immediately after each task completes
+- Keep it one line per task, ruthlessly brief
+
+**Why:** Leon wants to track what he asked and what happened. This is your job log.
+
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
