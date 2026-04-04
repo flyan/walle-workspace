@@ -122,19 +122,50 @@
     },
     "deepseek": {
       "baseUrl": "https://api.deepseek.com/v1",
-      "apiKey": "sk-bbe48a3e695249a9b61c7f6ab494542f",
       "api": "openai-completions",
       "models": [
         {
           "id": "deepseek-chat",
-          "name": "deepseek-chat"
+          "name": "DeepSeek Chat",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "contextWindow": 131072,
+          "maxTokens": 8192,
+          "cost": {
+            "input": 0.28,
+            "output": 0.42,
+            "cacheRead": 0.028,
+            "cacheWrite": 0
+          },
+          "compat": {
+            "supportsUsageInStreaming": true
+          },
+          "api": "openai-completions"
         },
         {
           "id": "deepseek-reasoner",
-          "name": "deepseek-reasoner",
-          "reasoning": true
+          "name": "DeepSeek Reasoner",
+          "reasoning": true,
+          "input": [
+            "text"
+          ],
+          "contextWindow": 131072,
+          "maxTokens": 65536,
+          "cost": {
+            "input": 0.28,
+            "output": 0.42,
+            "cacheRead": 0.028,
+            "cacheWrite": 0
+          },
+          "compat": {
+            "supportsUsageInStreaming": true
+          },
+          "api": "openai-completions"
         }
-      ]
+      ],
+      "apiKey": "sk-bbe48a3e695249a9b61c7f6ab494542f"
     },
     "gemini": {
       "baseUrl": "https://new.lemonapi.site/v1",
@@ -285,23 +316,6 @@
           "contextWindow": 200000,
           "maxTokens": 8192,
           "api": "anthropic-messages"
-        },
-        {
-          "id": "MiniMax-VL-01",
-          "name": "MiniMax VL 01",
-          "reasoning": false,
-          "input": [
-            "text",
-            "image"
-          ],
-          "cost": {
-            "input": 0.3,
-            "output": 1.2,
-            "cacheRead": 0.03,
-            "cacheWrite": 0.12
-          },
-          "contextWindow": 200000,
-          "maxTokens": 8192
         }
       ],
       "apiKey": "minimax-oauth"

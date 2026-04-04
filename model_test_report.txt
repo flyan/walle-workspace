@@ -1,0 +1,30 @@
+OpenClaw Model Availability Test Report
+==================================================
+Test time: 2026-03-22 22:00:05
+
+Total models tested: 14
+Available models: 0
+Unavailable models: 14
+
+UNAVAILABLE MODELS:
+  1. anthropic/claude-haiku-4-5-20251001
+  2. gemini/[L]gemini-3-flash-preview
+  3. gemini/[L]gemini-3-pro-preview-search
+  4. deepseek/deepseek-chat
+  5. qwen/qwen3-next-80b-a3b-instruct:free
+  6. openrouter/free
+  7. nvidia/nemotron-3-super-120b-a12b:free
+  8. healer-alpha:free
+  9. nvidia/nemotron-3-nano-30b-a3b:free
+  10. openrouter/hunter-alpha:free
+  11. anthropic/claude-sonnet-4-6
+  12. anthropic/claude-opus-4-6
+  13. deepseek/deepseek-reasoner
+  14. gemini/[L]gemini-3-pro-preview
+
+RECOMMENDATIONS:
+1. Use available models for your tasks
+2. Check API keys for unavailable models
+3. Consider network connectivity issues
+
+Report generated: 2026-03-22 22:00:05

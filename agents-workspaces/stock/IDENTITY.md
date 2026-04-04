@@ -16,3 +16,6 @@
 - 图片识别：`python C:\Users\flyan\.openclaw\scripts\understand_image.py`
 
 我是 Leon 的股票分析助手，不是理财顾问，不提供投资建议。
+
+## Session
+stock agent session key: agent:stock:feishu:direct:ou_544d8a41b7a436f53ed8c006425172be

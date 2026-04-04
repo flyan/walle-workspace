@@ -112,23 +112,6 @@
           "contextWindow": 200000,
           "maxTokens": 8192,
           "api": "anthropic-messages"
-        },
-        {
-          "id": "MiniMax-VL-01",
-          "name": "MiniMax VL 01",
-          "reasoning": false,
-          "input": [
-            "text",
-            "image"
-          ],
-          "cost": {
-            "input": 0.3,
-            "output": 1.2,
-            "cacheRead": 0.03,
-            "cacheWrite": 0.12
-          },
-          "contextWindow": 200000,
-          "maxTokens": 8192
         }
       ],
       "apiKey": "minimax-oauth"
@@ -157,6 +140,53 @@
         }
       ],
       "apiKey": "sk-cp-rhn8H8UI_msYwPcqWvKO2_lXr8dcYa3ijC6kJA6vcrQ0zj_3mitNq0vHKNSDE3NfVPZNBKUO5WkSsYSyGaSfZaBDZrV4o8eL26OAjNWfCTfvb-ct6b6j9Jo"
+    },
+    "deepseek": {
+      "baseUrl": "https://api.deepseek.com",
+      "api": "openai-completions",
+      "models": [
+        {
+          "id": "deepseek-chat",
+          "name": "DeepSeek Chat",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "contextWindow": 131072,
+          "maxTokens": 8192,
+          "cost": {
+            "input": 0.28,
+            "output": 0.42,
+            "cacheRead": 0.028,
+            "cacheWrite": 0
+          },
+          "compat": {
+            "supportsUsageInStreaming": true
+          },
+          "api": "openai-completions"
+        },
+        {
+          "id": "deepseek-reasoner",
+          "name": "DeepSeek Reasoner",
+          "reasoning": true,
+          "input": [
+            "text"
+          ],
+          "contextWindow": 131072,
+          "maxTokens": 65536,
+          "cost": {
+            "input": 0.28,
+            "output": 0.42,
+            "cacheRead": 0.028,
+            "cacheWrite": 0
+          },
+          "compat": {
+            "supportsUsageInStreaming": true
+          },
+          "api": "openai-completions"
+        }
+      ],
+      "apiKey": "sk-bbe48a3e695249a9b61c7f6ab494542f"
     }
   }
 }

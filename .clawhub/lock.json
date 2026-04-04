@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "skills": {
+    "minimax-understand-image": {
+      "version": "1.0.3",
+      "installedAt": 1774195563334
+    },
+    "wechat-article-search": {
+      "version": "0.1.0",
+      "installedAt": 1774919210836
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1774409376360
+    },
+    "api-gateway": {
+      "version": "1.0.54",
+      "installedAt": 1774409424418
+    },
+    "brave-search-api": {
+      "version": "1.0.0",
+      "installedAt": 1774409439208
+    },
+    "humanizer": {
+      "version": "1.0.0",
+      "installedAt": 1774409445105
+    },
+    "ontology": {
+      "version": "0.1.2",
+      "installedAt": 1774409450470
+    },
+    "polymarket": {
+      "version": "1.2.1",
+      "installedAt": 1774409455766
+    },
+    "self-improving-agent": {
+      "version": "1.0.11",
+      "installedAt": 1774409461245
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1774409466772
+    },
+    "skywork-document": {
+      "version": "1.0.1",
+      "installedAt": 1774409472536
+    },
+    "tavily": {
+      "version": "1.0.0",
+      "installedAt": 1774409479539
+    },
+    "pg": {
+      "version": "1.0.0",
+      "installedAt": 1774410536860
+    },
+    "postgres-db": {
+      "version": "1.0.0",
+      "installedAt": 1774410536937
+    },
+    "docker-compose-generator": {
+      "version": "1.0.1",
+      "installedAt": 1774410536986
+    },
+    "sql-toolkit": {
+      "version": "1.0.0",
+      "installedAt": 1774410537003
+    },
+    "supermemory-free": {
+      "version": "1.0.0",
+      "installedAt": 1774578943351
+    },
+    "writing-plans": {
+      "version": "0.1.0",
+      "installedAt": 1774591747547
+    },
+    "phy-prd-writer": {
+      "version": "1.0.0",
+      "installedAt": 1774592091574
+    },
+    "capability-evolver": {
+      "version": "1.31.0",
+      "installedAt": 1774603279714
+    },
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1774919174887
+    },
+    "firecrawl-search": {
+      "version": "1.0.0",
+      "installedAt": 1774919197707
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "total": 16,
+  "done": 11,
+  "results": {
+    "agent-browser":       {"status": "done",     "slug": "agent-browser"},
+    "api-gateway":         {"status": "done",     "slug": "api-gateway"},
+    "brave-search-api":    {"status": "done",     "slug": "brave-search-api"},
+    "free-ride":           {"status": "skipped",  "slug": null, "note": "not found on skillhub"},
+    "humanizer":           {"status": "done",     "slug": "humanizer"},
+    "ontology":            {"status": "done",     "slug": "ontology"},
+    "polymarket":          {"status": "done",     "slug": "polymarket"},
+    "self-improving-agent":{"status": "done",     "slug": "self-improving-agent"},
+    "skill-vetter":        {"status": "done",     "slug": "skill-vetter"},
+    "skywork-document":    {"status": "done",     "slug": "skywork-document"},
+    "tavily-search":       {"status": "done",     "slug": "tavily", "note": "installed as tavily, renamed to tavily-search"},
+    "skywork-design":      {"status": "failed",  "slug": "skywork-design", "note": "SYSTEM/TRUSTEDINSTALLER ownership - cannot delete without admin privileges. Tried: Remove-Item, takeown, icacls, Python shutil.rmtree, cmd rmdir - all returned Access Denied."},
+    "skywork-excel":       {"status": "failed",  "slug": "skywork-excel",   "note": "SYSTEM/TRUSTEDINSTALLER ownership - cannot delete without admin privileges. Tried: Remove-Item, takeown, icacls, Python shutil.rmtree, cmd rmdir - all returned Access Denied."},
+    "skywork-music-maker": {"status": "failed",  "slug": "skywork-music-maker", "note": "SYSTEM/TRUSTEDINSTALLER ownership - cannot delete without admin privileges. Tried: Remove-Item, takeown, icacls, Python shutil.rmtree, cmd rmdir - all returned Access Denied."},
+    "skywork-ppt":         {"status": "failed",  "slug": "skywork-ppt",     "note": "SYSTEM/TRUSTEDINSTALLER ownership - cannot delete without admin privileges. Tried: Remove-Item, takeown, icacls, Python shutil.rmtree, cmd rmdir - all returned Access Denied."},
+    "skywork-search":      {"status": "failed",  "slug": "skywork-search",  "note": "SYSTEM/TRUSTEDINSTALLER ownership - cannot delete without admin privileges. Tried: Remove-Item, takeown, icacls, Python shutil.rmtree, cmd rmdir - all returned Access Denied."}
+  }
+}

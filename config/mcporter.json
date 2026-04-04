@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "exa": {
+      "baseUrl": "https://mcp.exa.ai/mcp"
+    },
+    "weibo": {
+      "command": "mcp-server-weibo"
+    },
+    "douyin": {
+      "baseUrl": "http://localhost:18070/mcp"
+    },
+    "xueqiu": {
+      "command": "python",
+      "args": [
+        "C:\\Users\\flyan\\.openclaw\\workspace\\config\\xueqiu_mcp_server.py"
+      ],
+      "env": {
+        "XUEQIUTOKEN": "fdf50d4fe2398b0e43e7e70eabcd076d65bddeaf"
+      }
+    }
+  }
+}
