@@ -1,5 +1,9 @@
 # HEARTBEAT.md
 
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
-
-# Add tasks below when you want the agent to check something periodically.
+## 早盘热点推送
+- schedule: "0 8:20 * * MON-FRI"
+  task: >
+    联网搜索今日A股热点：涨停板、板块资金流向、龙头股动向、盘前要闻。
+    搜索使用 python 脚本：web_search.py，失败时自动重试最多5次（每次间隔30秒）。
+    5次全部失败后，记录错误日志并跳过本次推送，不发送不完整内容。
+    搜索成功后整理成摘要，通过飞书发送给用户。
