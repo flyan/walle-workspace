@@ -50,3 +50,19 @@
 - skywork-ppt
 - skywork-design
 - skywork-search
+
+## Hermes 配置修复
+- **Hermes 路径**: WSL Ubuntu 里 `/home/flyan/.hermes/config.yaml`
+- **问题**: `model.provider` 被设成 `claude-thirdparty`（第三方代理），导致 Claude 模型调用失败
+- **修复方法**: 改 `model.provider: minimax-cn`
+- **读取命令**: `wsl -e bash -c "cat /home/flyan/.hermes/config.yaml"`
+- **写入命令**: `wsl -e bash -c "cat > /home/flyan/.hermes/config.yaml << 'EOF'\n<内容>\nEOF"`
+- **核心改动**:
+  ```yaml
+  model:
+    default: claaude-sonnet-4-6
+    provider: minimax-cn  # 从 claude-thirdparty 改为 minimax-cn
+    base_url: https://api.minimaxi.com/anthropic
+  ```
+- **生效方式**: 修改后需重启 Hermes（`systemctl --user restart hermes-gateway`）
+- 日期: 2026-04-20
